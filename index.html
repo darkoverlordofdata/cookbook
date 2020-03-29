@@ -1,0 +1,40 @@
+---
+layout: home
+font: macro
+lang: en
+ref: index
+image: true
+exclude: true
+---
+
+<div class="index{% if page.image %} entry-hasBackground{% endif %}">
+  <div class="content-top">
+    <header class="content hero">
+      <a id="{{ page.title | url_encode }}"><h1 class="hero-title">{{ site.tagline }}</h1></a>
+    </header>
+  </div>
+
+<div class="index{% if page.image %} entry-hasBackground{% endif %}">
+
+  <ul class="list">
+    {% assign recipes = site.recipes %}
+    {% for page in recipes %}
+
+    <li class="list-recipe">
+      <article>
+        <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">
+          <div class="list-image" style="background-image: url({{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{% if page.image %}{{ page.ref }}-small.jpeg{% elsif site.image %}{{ site.image }}{% endif %});"></div>
+          <div class="list-body">
+            <span class="list-category category">{{ page.category }}</span>
+            <h3 class="list-header title">{{ page.title }}</h3>
+            <span class="list-ingredients ingredients" data-ingredients="{% for i in page.ingredients %}{{ i.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}"></span>
+          </div>
+        </a>
+      </article>
+    </li>
+
+    {% endfor %}
+  </ul>
+
+</div>
+

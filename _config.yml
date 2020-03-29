@@ -1,0 +1,48 @@
+
+# Site meta
+title: Cookbook
+tagline: 'All the Food'
+description: 'Family Recipes.'
+keywords: 'food'
+url: https://github.com/darkoverlordofdata
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: overlordofdata
+github_username:  darkoverlordofdata
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  # - jekyll-gist
+  # - jekyll-redirect-from
+  # - jekyll-seo-tag
+
+# Settings
+color: '#fab005'
+exclude:
+  [
+    CNAME,
+    README.md,
+    NOTES.md,
+    LICENSE.md,
+    .gitignore,
+    package.json,
+    _js,
+    _scss,
+    _images,
+    gulpfile.js,
+    gulpconfig.js,
+    node_modules,
+    gemfile.html,
+    Gemfile.lock,
+    data,
+    convert,
+    convert.sh
+  ]
+
+collections:
+  recipes:
+    output: true
+
