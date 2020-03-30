@@ -1,6 +1,6 @@
 ---
-title: _recipes/Katsu Sauce.markdown
-ref: _recipes/Katsu Sauce.markdown
+title: Katsu Sauce
+ref: Katsu Sauce
 image: false
 time: 0
 category: food

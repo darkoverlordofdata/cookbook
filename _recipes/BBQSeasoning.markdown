@@ -1,6 +1,6 @@
 ---
-title: _recipes/BBQSeasoning.markdown
-ref: _recipes/BBQSeasoning.markdown
+title: BBQSeasoning
+ref: BBQSeasoning
 image: false
 time: 0
 category: food
@@ -9,26 +9,36 @@ ingredients: {}
 ---
 **BBQ Seasoning**
 
-*AmountIngredient*
+
+
+[Amount]() [Ingredient]()
+
 
 1 ½ tsp Salt
 
-¾ tspPepper
+¾ tsp Pepper
+
 
 1 Tbs Garlic Granules
 
-2 TbsOnion Powder
+2 Tbs Onion Powder
 
-1 TbsSmoked Paprika
+1 Tbs Smoked Paprika
 
-1 TbsBrown Sugar
+1 Tbs Brown Sugar
 
-PinchCumin
+Pinch Cumin
 
-PinchCitric Acid
+Pinch Citric Acid
 
-Cooking Instructions:
+
+
+[Cooking Instructions:]()
+
 
 Combine ingredients in a bowl and mix well.
 
+
 Use on BBQ Potato Chip Chicken
+
+

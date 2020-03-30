@@ -1,6 +1,6 @@
 ---
-title: _recipes/Waffles.markdown
-ref: _recipes/Waffles.markdown
+title: Waffles
+ref: Waffles
 image: false
 time: 0
 category: food

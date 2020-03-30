@@ -1,46 +1,58 @@
 ---
-title: _recipes/KalbiSauce.markdown
-ref: _recipes/KalbiSauce.markdown
+title: KalbiSauce
+ref: KalbiSauce
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Kalbi Sauce**
+**Kalbi Sauce**[ ]{style="font-weight: normal"}
 
-*AmountIngredient*
 
-5 ClovesGarlic, smashed
 
-3 planksGinger, a plank is ¾ by 2 by ⅛ inches
+[Amount]() [Ingredient]()
 
-1 CupSoy Sauce
 
-3 TbsMirin Rice Wine
+5 Cloves Garlic, smashed
 
-1Asian Pear, peeled and cored/seeded
+3 planks Ginger, a plank is ¾ by 2 by ⅛ inches
 
-½ tspGochujang
+1 Cup Soy Sauce
 
-½ tspSesame Oil
+3 Tbs Mirin Rice Wine
+
+1 Asian Pear, peeled and cored/seeded
+
+½ tsp Gochujang
+
+½ tsp Sesame Oil
 
 Black Pepper
 
-1 LbKalbi/Korean sliced Beef Short Ribs
 
-Cooking Instructions:
+1 Lb Kalbi/Korean sliced Beef Short Ribs
+
+
+[Cooking Instructions:]()
+
 
 Blend ingredients in a blender.
 
+
 Strain to remove garlic and ginger and any pear bits
+
 
 Bring to a boil, and boil just long enough to remove raw garlic taste
 
+
 Remove from heat, and add 2 ice cubes to cool.
+
 
 Pour into bottle when cool
 
+
 Marinate Beef Ribs in Kalbi Sauce 30 minutes to one hour
+
 
 Broil ribs 8 minutes per side

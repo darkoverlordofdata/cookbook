@@ -1,30 +1,38 @@
 ---
-title: _recipes/SpicyHoneyShrimp.markdown
-ref: _recipes/SpicyHoneyShrimp.markdown
+title: SpicyHoneyShrimp
+ref: SpicyHoneyShrimp
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Spicy Honey Shrimp **
+**Spicy Honey Shrimp**
 
-*AmountIngredient*
 
-½ CupHoney
 
-¼ CupSoy Sauce
+[Amount]() [Ingredient]()
 
-1 tspSesame Seeds
 
-2 ClovesGarlic
+½ Cup Honey
 
-¼ tspChili Paste
+¼ Cup Soy Sauce
 
-1 LbShrimp (Fresh or Frozen)
+1 tsp Sesame Seeds
 
-Cooking Instructions:
+2 Cloves Garlic
+
+¼ tsp Chili Paste
+
+
+1 Lb Shrimp (Fresh or Frozen)
+
+
+[Cooking Instructions:]()
+
+
 
 Combine sauce ingredients and pour over Shrimp
+
 
 Broil 6-7 Minutes or until shrimp cooked

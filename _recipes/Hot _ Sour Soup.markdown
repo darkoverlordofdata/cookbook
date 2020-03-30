@@ -1,6 +1,6 @@
 ---
-title: _recipes/Hot _ Sour Soup.markdown
-ref: _recipes/Hot _ Sour Soup.markdown
+title: Hot _ Sour Soup
+ref: Hot _ Sour Soup
 image: false
 time: 0
 category: food
@@ -8,43 +8,46 @@ tags: {}
 ingredients: {}
 ---
 ---
-title: _recipes/Hot _ Sour Soup.markdown
-ref: _recipes/Hot _ Sour Soup.markdown
+title: Hot _ Sour Soup
+ref: Hot _ Sour Soup
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-Hot & Sour Soup
+**Hot & Sour Soup**
 
-Full RecipeHalf Recipe
 
-1quart2 Cupschicken stock
+**Full Recipe Half Recipe**
 
-1quart2 Cupswater
 
-2tbsp1 Tbsmirin
+1 quart 2 Cups chicken stock
 
-6tbsp (¼ cup + 2 tbsp) 3 Tbssoy sauce
+1 quart 2 Cups water
 
-½cup1/4 Cuprice wine vinegar, unseasoned
+2 tbsp 1 Tbs mirin
 
-2tsp1 tspsesame oil
+6 tbsp (¼ cup + 2 tbsp) 3 Tbs soy sauce
 
-2tsp1 tspnuc mon (vietnamese fish sauce)
+½ cup 1/4 Cup rice wine vinegar, unseasoned
 
-2clove1 clovegarlic, crushed
+2 tsp 1 tsp sesame oil
 
-2inches1 inch ginger, spit down the middle
+2 tsp 1 tsp nuc mon (vietnamese fish sauce)
 
-¼-½tsp (I like ¼ )1/8 tsp crushed red pepper,
+2 clove 1 clove garlic, crushed
 
-2 1leeks, split and in large pieces
+2 inches 1 inch ginger, spit down the middle
 
-42green onions, whites and greens, large pieces
+¼-½ tsp (I like ¼ ) 1/8 tsp crushed red pepper,
 
-1-2tsp1/4 tspsugar
+2 1 leeks, split and in large pieces
+
+4 2 green onions, whites and greens, large pieces
+
+1-2 tsp 1/4 tsp sugar
+
 
 Add everything but sugar to a big pot and bring to a boil
 
@@ -59,6 +62,7 @@ Strain through cheesecloth, or just a fine sieve
 Soup can be kept for approx. 5 days, I've never had it any longer
 
 To serve, return soup to a simmer, serve with thick asian noodles
+
 
 This soup is an easy side, you may be tempted to half the recipe, but
 even covered the soup reduces quite a bit, make a full size batch the

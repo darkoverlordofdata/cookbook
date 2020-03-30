@@ -1,43 +1,54 @@
 ---
-title: _recipes/RedEnchiladaSauce.markdown
-ref: _recipes/RedEnchiladaSauce.markdown
+title: RedEnchiladaSauce
+ref: RedEnchiladaSauce
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Red Enchilada Sauce**
+**Red Enchilada Sauce**[ ]{style="font-weight: normal"}
 
-*AmountIngredient*
+
+
+[Amount]() [Ingredient]()
+
 
 ½ Cup Diced Yellow Onion
 
-4 ClovesGarlic
+4 Cloves Garlic
 
-2 ozDried Guajillo Peppers
+2 oz Dried Guajillo Peppers
 
-For FryingOlive Oil
+For Frying Olive Oil
 
-2 ½ CupsWater
 
-2 tspOregano
+2 ½ Cups Water
 
-1 ½ tspCumin
 
-1 tspSalt
+2 tsp Oregano
 
-½ CanTomato Paste
+1 ½ tsp Cumin
 
-Cooking Instructions:
+1 tsp Salt
+
+
+½ Can Tomato Paste
+
+
+[Cooking Instructions:]()
+
 
 Saute onion and garlic in olive oil in fry pan
 
+
 Meanwhile, remove stems and seeds from the peppers, and place in bowl.
+
 
 Boil water and pour over peppers;
 
 Steep 5 minutes
+
 
 Blend together: onion, garlic, and peppers
 
@@ -49,6 +60,12 @@ Season with sugar and black pepper to taste
 
 Mix well.
 
+
 Simmer 30 minutes
 
+
 Use immediately or store in glass jar in fridge.
+
+
+
+

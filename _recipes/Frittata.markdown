@@ -1,6 +1,6 @@
 ---
-title: _recipes/Frittata.markdown
-ref: _recipes/Frittata.markdown
+title: Frittata
+ref: Frittata
 image: false
 time: 0
 category: food
@@ -11,25 +11,27 @@ ingredients: {}
 
 Oven 400°
 
-*AmountIngredient*
+
+[Amount]() [Ingredient]()
 
 4 strips Bacon, chopped
 
-8 ozMushrooms, sliced
+8 oz Mushrooms, sliced
 
-1Shallot, diced
+1 Shallot, diced
 
-1Tomato, diced, optionally peeled
+1 Tomato, diced, optionally peeled
 
-4Eggs
+4 Eggs
 
-SplashWhite Wine
+Splash White Wine
 
-about 1 ½ cupsParmesan, grated
+about 1 ½ cups Parmesan, grated
 
 Basil, to taste
 
-Cooking Instructions:
+
+[Cooking Instructions:]()
 
 Whisk eggs with wine and pinch of cheese
 

@@ -1,6 +1,6 @@
 ---
-title: _recipes/Rib Juice.markdown
-ref: _recipes/Rib Juice.markdown
+title: Rib Juice
+ref: Rib Juice
 image: false
 time: 0
 category: food

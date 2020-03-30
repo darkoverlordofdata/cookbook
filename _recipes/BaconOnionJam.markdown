@@ -1,45 +1,58 @@
 ---
-title: _recipes/BaconOnionJam.markdown
-ref: _recipes/BaconOnionJam.markdown
+title: BaconOnionJam
+ref: BaconOnionJam
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Bacon Onion Jam**
+**Bacon Onion Jam**[ ]{style="font-weight: normal"}
 
-*AmountIngredient*
 
-1 PoundBacon -- diced
+
+[Amount]() [Ingredient]()
+
+
+1 Pound Bacon -- diced
+
 
 4 Onions -- diced
 
-½ CupBrown Sugar - Loosely packed
 
-1 tspThyme
+½ Cup Brown Sugar - Loosely packed
 
-2 tspBalsamic Vinegar
+1 tsp Thyme
 
-2 TbsBacon Fat
+2 tsp Balsamic Vinegar
 
-½ CupWater
+2 Tbs Bacon Fat
 
-½ CupCoffee
+½ Cup Water
 
-½ tspBalsamic Vinegar
+½ Cup Coffee
 
-Cooking Instructions:
+
+½ tsp Balsamic Vinegar
+
+
+[Cooking Instructions:]()
+
 
 Saute bacon until cooked, and remove from fat; reserve fat
 
+
 Saute the onion in 1 Tbs bacon fat
+
 
 When onions caramelized and soft, mix-in remaining ingredients, and add
 bacon into mixture.
 
+
 Reduce -- about 1 hour
 
+
 Add ½ tsp Balsamic to finish.
+
 
 Makes about 3 -- 8oz jars.

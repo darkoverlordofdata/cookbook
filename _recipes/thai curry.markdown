@@ -1,6 +1,6 @@
 ---
-title: _recipes/thai curry.markdown
-ref: _recipes/thai curry.markdown
+title: thai curry
+ref: thai curry
 image: false
 time: 0
 category: food
@@ -9,19 +9,22 @@ ingredients: {}
 ---
 Thai Coconut Curry
 
-1 lbShrimp or Chicken
 
-1Shallot
+1 lb Shrimp or Chicken
 
-1 cloveGarlic
+1 Shallot
 
-3 tbsCurry Paste
+1 clove Garlic
+
+3 tbs Curry Paste
 
 1 can Coconut Milk
 
-1-3 tspFish Sauce, to taste
+1-3 tsp Fish Sauce, to taste
 
-1Lime, juice of
+1 Lime, juice of
+
+
 
 If using chicken cut into chunks and brown, remove from pan
 
@@ -39,4 +42,7 @@ simmer
 
 Taste and season as needed with more fish sauce, sugar, and lime juice
 
+
 Serve over rice with a side of salad dressed with Asian Salad Dressing
+
+

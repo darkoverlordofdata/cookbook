@@ -1,6 +1,6 @@
 ---
-title: _recipes/ChiliPowder.markdown
-ref: _recipes/ChiliPowder.markdown
+title: ChiliPowder
+ref: ChiliPowder
 image: false
 time: 0
 category: food
@@ -9,30 +9,39 @@ ingredients: {}
 ---
 **Chili Powder**
 
-*AmountIngredient*
 
-2 TbsChile Powder
 
-2 TbsSmoked Paprika
+[Amount]() [Ingredient]()
 
-1 TbsOregano
 
-1 TbsCumin
+2 Tbs Chile Powder
 
-1 TbsGarlic Powder
+2 Tbs Smoked Paprika
 
-1 TbsOnion Powder
+1 Tbs Oregano
 
-2 tspSalt
+1 Tbs Cumin
 
-1 tspBlack Pepper
+1 Tbs Garlic Powder
+
+1 Tbs Onion Powder
+
+2 tsp Salt
+
+1 tsp Black Pepper
 
 ½ tsp Sugar
 
-Cooking Instructions:
+
+
+[Cooking Instructions:]()
+
 
 Grind all ingredients in a morta with pestal.
+
 
 When well ground, add:
 
 1 Tbs Dried Onion
+
+

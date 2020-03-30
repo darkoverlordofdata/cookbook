@@ -1,6 +1,6 @@
 ---
-title: _recipes/Pork Stir Fry with Green Onion Recipe.markdown
-ref: _recipes/Pork Stir Fry with Green Onion Recipe.markdown
+title: Pork Stir Fry with Green Onion Recipe
+ref: Pork Stir Fry with Green Onion Recipe
 image: false
 time: 0
 category: food

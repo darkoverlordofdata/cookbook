@@ -1,35 +1,40 @@
 ---
-title: _recipes/OnionBeefStirFry.markdown
-ref: _recipes/OnionBeefStirFry.markdown
+title: OnionBeefStirFry
+ref: OnionBeefStirFry
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Onion Beef **
+**Onion Beef**
 
-*AmountIngredient*
 
-Marinade
 
-3 TbsSoy Sauce
+[Amount]() [Ingredient]()
 
-3 TbsMirin Rice Wine
 
-1 tspSugar
+*Marinade*
 
-1 TbsSesame Oil
+3 Tbs Soy Sauce
 
-1 TbsGarlic Chili Paste
+3 Tbs Mirin Rice Wine
 
-1 TbsBBQ Sauce
+1 tsp Sugar
 
-1 CloveGarlic, mashed and diced
+1 Tbs Sesame Oil
 
-.5 tspGinger, mashed and diced
+1 Tbs Garlic Chili Paste
 
-1 LbFlank or Top Round Steak, sliced
+1 Tbs BBQ Sauce
+
+1 Clove Garlic, mashed and diced
+
+.5 tsp Ginger, mashed and diced
+
+
+1 Lb Flank or Top Round Steak, sliced
+
 
 Carrots, julienned
 
@@ -39,18 +44,28 @@ Yellow Onion, cut into pieces
 
 Other vegetables, if desired
 
-Cooking Instructions:
+
+[Cooking Instructions:]()
+
 
 Combine Marinade ingredients
 
+
 Place steak in a zipper bag and pour marinade over steak.
+
 
 Marinate steak for minimum of 20 minutes
 
+
 Stir-fry vegetables in a hot, oiled wok.
+
 
 When vegetables are soft, al dente, then
 
+
 Pour contents of baggie (marinade and steak) into a hot wok, oiled
 
+
 Stir fry until beef warmed through; may be rare.
+
+

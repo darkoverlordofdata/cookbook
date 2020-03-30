@@ -1,31 +1,33 @@
 ---
-title: _recipes/Chowmein.markdown
-ref: _recipes/Chowmein.markdown
+title: Chowmein
+ref: Chowmein
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-Chowmein
+**Chowmein**
 
-*AmountIngredient*
 
-2 stalksCelery
+[Amount]() [Ingredient]()
 
-3 quartersOnion
+2 stalks Celery
 
-10 ozYakisoba Noodles
+3 quarters Onion
 
-a bunch?Cabbage
+10 oz Yakisoba Noodles
 
-¼ cupSoy Sauce
+a bunch? Cabbage
 
-2 grindsBlack Pepper
+¼ cup Soy Sauce
 
-splashMirin
+2 grinds Black Pepper
 
-Cooking Instructions:
+splash Mirin
+
+
+[Cooking Instructions:]()
 
 Thinly slice celery on the bias, and onions vertically
 

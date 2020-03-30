@@ -1,6 +1,6 @@
 ---
-title: _recipes/asian noodles.markdown
-ref: _recipes/asian noodles.markdown
+title: asian noodles
+ref: asian noodles
 image: false
 time: 0
 category: food
@@ -9,17 +9,19 @@ ingredients: {}
 ---
 **Asian Noodles**
 
-*AmountIngredient*
 
-1egg
+[Amount]() [Ingredient]()
 
-¾ cupflour
+1 egg
 
-¾ tspsalt
+¾ cup flour
 
-1 ½ to 2 tbspwater
+¾ tsp salt
 
-Cooking Instructions:
+1 ½ to 2 tbsp water
+
+
+[Cooking Instructions:]()
 
 Combine salt and flour and pour on your work surface, make a well
 
@@ -35,6 +37,8 @@ worry just do it again.
 
 Kneed the dough 5 minutes and let rest 30 -- 120 minutes.
 
+
 Roll out thin and slice into noodles
+
 
 you're on your own from here

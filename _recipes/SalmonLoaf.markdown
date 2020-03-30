@@ -1,40 +1,48 @@
 ---
-title: _recipes/SalmonLoaf.markdown
-ref: _recipes/SalmonLoaf.markdown
+title: SalmonLoaf
+ref: SalmonLoaf
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Salmon Loaf**
+**Salmon Loaf**[ ]{style="font-weight: normal"}
 
-*AmountIngredient*
 
-3 -- 4 ozSalmon
 
-½Boiler Onion, grind with salmon
+[Amount]() [Ingredient]()
 
-1Shallot, minced
+
+3 -- 4 oz Salmon
+
+½ Boiler Onion, grind with salmon
+
+1 Shallot, minced
 
 1 Egg, beaten lightly
 
 Worchestershire Sauce -- enough to turn egg brown
 
-2 SlicesBread, crumbed in food processor
+2 Slices Bread, crumbed in food processor
 
-DashPepper
+Dash Pepper
 
-½ LemonLemon Juice
+½ Lemon Lemon Juice
 
-10 dropsFrank's Red Hot
+10 drops Frank's Red Hot
 
-Cooking Instructions:
+
+[Cooking Instructions:]()
+
 
 Grind Salmon and Boiler Onion in food processor
 
+
 Combine with remaining ingredients, until well mixed
 
+
 Form into a loaf or patties
+
 
 Bake at 350º for 22 minutes.

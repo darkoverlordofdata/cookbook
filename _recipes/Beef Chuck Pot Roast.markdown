@@ -1,6 +1,6 @@
 ---
-title: _recipes/Beef Chuck Pot Roast.markdown
-ref: _recipes/Beef Chuck Pot Roast.markdown
+title: Beef Chuck Pot Roast
+ref: Beef Chuck Pot Roast
 image: false
 time: 0
 category: food

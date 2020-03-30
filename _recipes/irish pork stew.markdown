@@ -1,6 +1,6 @@
 ---
-title: _recipes/irish pork stew.markdown
-ref: _recipes/irish pork stew.markdown
+title: irish pork stew
+ref: irish pork stew
 image: false
 time: 0
 category: food

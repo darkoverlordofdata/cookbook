@@ -1,35 +1,44 @@
 ---
-title: _recipes/BeansandRice.markdown
-ref: _recipes/BeansandRice.markdown
+title: BeansandRice
+ref: BeansandRice
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Beans and Rice**
+**Beans and Rice**[ ]{style="font-weight: normal"}
 
-*AmountIngredient*
 
-1 TbsBacon Fat
 
-2 TbsDried Onion
+[Amount]() [Ingredient]()
 
-1 tspGarlic Granules
 
-¾ CupRice -- Jasmine
+1 Tbs Bacon Fat
 
-1 ½ CupChicken Stock
+2 Tbs Dried Onion
 
-1 CanKroger 3 Bean - Drained
+1 tsp Garlic Granules
 
-1 tspCumin
 
-1Lime, Juice of
+¾ Cup Rice -- Jasmine
+
+
+1 ½ Cup Chicken Stock
+
+
+1 Can Kroger 3 Bean - Drained
+
+1 tsp Cumin
+
+
+1 Lime, Juice of
 
 Cilantro - chopped
 
-Cooking Instructions:
+
+[Cooking Instructions:]()
+
 
 Toast Onion and Garlic in bacon fat.
 
@@ -37,8 +46,11 @@ Add Rice and toast until golden brown
 
 Add Chicken Stock, can of beans, and cumin
 
+
 Bring to boil.
 
+
 Boil 20 minutes
+
 
 Add Lime Juice and chopped Cilantro before serving.

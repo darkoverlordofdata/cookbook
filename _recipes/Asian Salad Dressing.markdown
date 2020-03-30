@@ -1,6 +1,6 @@
 ---
-title: _recipes/Asian Salad Dressing.markdown
-ref: _recipes/Asian Salad Dressing.markdown
+title: Asian Salad Dressing
+ref: Asian Salad Dressing
 image: false
 time: 0
 category: food

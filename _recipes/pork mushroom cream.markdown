@@ -1,6 +1,6 @@
 ---
-title: _recipes/pork mushroom cream.markdown
-ref: _recipes/pork mushroom cream.markdown
+title: pork mushroom cream
+ref: pork mushroom cream
 image: false
 time: 0
 category: food
@@ -9,27 +9,29 @@ ingredients: {}
 ---
 **Pork Medallions in Mushroom Cream Sauce**
 
-*AmountIngredient*
 
-1pork tenderloin, cut into ½ inch thick medallions
+[Amount]() [Ingredient]()
+
+1 pork tenderloin, cut into ½ inch thick medallions
 
 2 tbsp butter
 
-1 tbspolive oil
+1 tbsp olive oil
 
-1 cupsliced fresh mushrooms
+1 cup sliced fresh mushrooms
 
-¼ cupfinely chopped onion
+¼ cup finely chopped onion
 
 ½ cup apple juice
 
-½ cupchicken stock or broth
+½ cup chicken stock or broth
 
 ¾ cup half and half
 
 2 tbsp dijon mustard
 
-Cooking Instructions:
+
+[Cooking Instructions:]()
 
 Season both sides of pork tenderloin medallions with salt and pepper.
 Heat butter and oil in large skillet over medium -high heat. Brown pork

@@ -1,26 +1,35 @@
 ---
-title: _recipes/PastryIcing.markdown
-ref: _recipes/PastryIcing.markdown
+title: PastryIcing
+ref: PastryIcing
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Icing for Pastry**
+**Icing for Pastry**[ ]{style="font-weight: normal"}
 
-*AmountIngredient*
 
-3 TbsMilk
 
-SplashVanilla
+[Amount]() [Ingredient]()
 
-2 TbsButter - Softened
 
-1 ½ - 2 CupsPowdered Sugar
+3 Tbs Milk
 
-Cooking Instructions:
+Splash Vanilla
+
+2 Tbs Butter - Softened
+
+1 ½ - 2 Cups Powdered Sugar
+
+
+[Cooking Instructions:]()
+
+
 
 Add ingredients to large bowl and whisk together.
 
+
 Cut the corner off a baggie and use as pastry bag for icing.
+
+

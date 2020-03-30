@@ -1,6 +1,6 @@
 ---
-title: _recipes/Scampi.markdown
-ref: _recipes/Scampi.markdown
+title: Scampi
+ref: Scampi
 image: false
 time: 0
 category: food
@@ -9,25 +9,31 @@ ingredients: {}
 ---
 **Shrimp Scampi**
 
-*AmountIngredient*
 
-6 clovesgarlic, 3 grated, 3 sliced
+[Amount]() [Ingredient]()
 
-1 tspsalt
+6 cloves garlic, 3 grated, 3 sliced
 
-3 tbspolive oil
+1 tsp salt
 
-1 lbshrimp
+3 tbsp olive oil
 
-¼ tspred pepper flakes
+1 lb shrimp
+
+
+¼ tsp red pepper flakes
+
 
 ¼ cup white wine
 
-1 tbsplemon juice
+1 tbsp lemon juice
+
 
 ¼ cup butter
 
-Cooking Instructions:
+
+
+[Cooking Instructions:]()
 
 Combine garlic, salt and 1 tbsp oil, add shrimp and marinate 30 minutes
 

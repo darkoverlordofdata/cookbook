@@ -1,39 +1,46 @@
 ---
-title: _recipes/PulledPork.markdown
-ref: _recipes/PulledPork.markdown
+title: PulledPork
+ref: PulledPork
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-Pulled Pork
+**Pulled Pork**
 
-*AmountIngredient*
 
-2Pork Shoulder Steaks, about 2 lbs
 
-1Onion, vertically sliced
+[Amount]() [Ingredient]()
 
-2 clovesGarlic, smashed
+2 Pork Shoulder Steaks, about 2 lbs
 
-¼ cupApple Juice
+1 Onion, vertically sliced
 
-¼ cupApple Cider Vinegar
+2 cloves Garlic, smashed
 
-½ -1 tspFrank's or other hot sauce
 
-1 tbspMustard
+¼ cup Apple Juice
 
-1 tbspTiger sauce
+¼ cup Apple Cider Vinegar
 
-¾ tbspWorcestershire sauce
+½ -1 tsp Frank's or other hot sauce
 
-dashLiquid Smoke
 
-¼ cupBBQ sauce
+1 tbsp Mustard
 
-Cooking Instructions:
+1 tbsp Tiger sauce
+
+¾ tbsp Worcestershire sauce
+
+dash Liquid Smoke
+
+¼ cup BBQ sauce
+
+
+
+[Cooking Instructions:]()
+
 
 Season pork with salt and pepper, and sear in hot peanut oil one at a
 time
@@ -49,6 +56,7 @@ Add the pork back to the pan, and bring liquid to boil
 Reduce to a simmer and cover, flipping meat every 30 to 45 minutes
 
 Pork will be done when the the meat falls apart, about 2 hours
+
 
 When the pork is done, remove from pan and allow to cool
 

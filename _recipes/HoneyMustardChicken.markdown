@@ -1,6 +1,6 @@
 ---
-title: _recipes/HoneyMustardChicken.markdown
-ref: _recipes/HoneyMustardChicken.markdown
+title: HoneyMustardChicken
+ref: HoneyMustardChicken
 image: false
 time: 0
 category: food
@@ -9,6 +9,12 @@ ingredients: {}
 ---
 **Honey Mustard Chicken**
 
-*AmountIngredient*
 
-Cooking Instructions:
+
+[Amount]() [Ingredient]()
+
+
+
+
+[Cooking Instructions:]()
+

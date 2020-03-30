@@ -1,6 +1,6 @@
 ---
-title: _recipes/Chicken Broccoli Stir Fry.markdown
-ref: _recipes/Chicken Broccoli Stir Fry.markdown
+title: Chicken Broccoli Stir Fry
+ref: Chicken Broccoli Stir Fry
 image: false
 time: 0
 category: food

@@ -1,6 +1,6 @@
 ---
-title: _recipes/Itallian Meatballs.markdown
-ref: _recipes/Itallian Meatballs.markdown
+title: Itallian Meatballs
+ref: Itallian Meatballs
 image: false
 time: 0
 category: food

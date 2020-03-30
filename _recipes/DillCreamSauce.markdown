@@ -1,6 +1,6 @@
 ---
-title: _recipes/DillCreamSauce.markdown
-ref: _recipes/DillCreamSauce.markdown
+title: DillCreamSauce
+ref: DillCreamSauce
 image: false
 time: 0
 category: food
@@ -9,16 +9,22 @@ ingredients: {}
 ---
 **Dill Cream Sauce**
 
-*AmountIngredient*
+
+
+[Amount]() [Ingredient]()
+
 
 ½ Cup Sour Cream
 
-1 TbsLemon Juice
+1 Tbs Lemon Juice
 
-2 tspDill
+2 tsp Dill
 
-*Cooking Instructions:*
+
+[Cooking Instructions:]()
+
 
 Combine ingredients.
+
 
 Use for fish.

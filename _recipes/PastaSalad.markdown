@@ -1,15 +1,18 @@
 ---
-title: _recipes/PastaSalad.markdown
-ref: _recipes/PastaSalad.markdown
+title: PastaSalad
+ref: PastaSalad
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Pasta Salad **
+**Pasta Salad**
 
-*AmountIngredient*
+
+
+[Amount]() [Ingredient]()
+
 
 Pasta -- bow ties, cork screws, wagon wheels
 
@@ -19,13 +22,17 @@ Black Olives, chopped
 
 Artichoke Hearts, drained and separated
 
-Red Onion, minced)
 
-Mushrooms, sliced)Saute these in Olive Oil until tender
+Red Onion, minced )
 
-Garlic, minced)
+Mushrooms, sliced ) Saute these in Olive Oil until tender
 
-Dressing:
+Garlic, minced )
+
+
+
+*Dressing:*
+
 
 Olive Oil
 
@@ -37,6 +44,10 @@ Basil
 
 White Pepper
 
-*Cooking Instructions:*
+
+
+
+[Cooking Instructions:]()
+
 
 Amounts vary based on quantity desired.

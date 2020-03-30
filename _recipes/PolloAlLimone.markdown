@@ -1,6 +1,6 @@
 ---
-title: _recipes/PolloAlLimone.markdown
-ref: _recipes/PolloAlLimone.markdown
+title: PolloAlLimone
+ref: PolloAlLimone
 image: false
 time: 0
 category: food
@@ -9,23 +9,25 @@ ingredients: {}
 ---
 **Pollo Al Limone**
 
-*AmountIngredient*
 
-1 lbChicken
+[Amount]() [Ingredient]()
+
+1 lb Chicken
 
 Flour
 
-½ tspRosemary
+½ tsp Rosemary
 
-2 tspCapers, drained
+2 tsp Capers, drained
 
-1Lemon, juice of
+1 Lemon, juice of
 
-½ cupWhite Wine
+½ cup White Wine
 
 1 ½ tbsp Butter
 
-Cooking Instructions:
+
+[Cooking Instructions:]()
 
 Pound chicken out flat
 

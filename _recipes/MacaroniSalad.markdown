@@ -1,6 +1,6 @@
 ---
-title: _recipes/MacaroniSalad.markdown
-ref: _recipes/MacaroniSalad.markdown
+title: MacaroniSalad
+ref: MacaroniSalad
 image: false
 time: 0
 category: food
@@ -9,7 +9,10 @@ ingredients: {}
 ---
 **Macaroni Salad**
 
-*AmountIngredient*
+
+
+[Amount]() [Ingredient]()
+
 
 Elbow Macroni
 
@@ -23,7 +26,9 @@ Black Olives, chopped
 
 Celery, chopped
 
-Dressing:
+
+*Dressing:*
+
 
 Miracle Whip
 
@@ -35,6 +40,9 @@ Paprika
 
 White Pepper
 
-Cooking Instructions:
+
+
+[Cooking Instructions:]()
+
 
 Amount of ingredients varies based on the amount needed.

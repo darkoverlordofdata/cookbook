@@ -1,6 +1,6 @@
 ---
-title: _recipes/J.D._s BBQ Sauce.markdown
-ref: _recipes/J.D._s BBQ Sauce.markdown
+title: J.D._s BBQ Sauce
+ref: J.D._s BBQ Sauce
 image: false
 time: 0
 category: food

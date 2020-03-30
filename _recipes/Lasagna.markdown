@@ -1,6 +1,6 @@
 ---
-title: _recipes/Lasagna.markdown
-ref: _recipes/Lasagna.markdown
+title: Lasagna
+ref: Lasagna
 image: false
 time: 0
 category: food

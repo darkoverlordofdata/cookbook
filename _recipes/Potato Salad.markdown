@@ -1,6 +1,6 @@
 ---
-title: _recipes/Potato Salad.markdown
-ref: _recipes/Potato Salad.markdown
+title: Potato Salad
+ref: Potato Salad
 image: false
 time: 0
 category: food

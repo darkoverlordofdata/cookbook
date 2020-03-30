@@ -1,6 +1,6 @@
 ---
-title: _recipes/Ham Buns.markdown
-ref: _recipes/Ham Buns.markdown
+title: Ham Buns
+ref: Ham Buns
 image: false
 time: 0
 category: food

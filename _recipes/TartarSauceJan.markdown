@@ -1,6 +1,6 @@
 ---
-title: _recipes/TartarSauceJan.markdown
-ref: _recipes/TartarSauceJan.markdown
+title: TartarSauceJan
+ref: TartarSauceJan
 image: false
 time: 0
 category: food
@@ -9,20 +9,26 @@ ingredients: {}
 ---
 **Tarter Sauce - Jan's**
 
-*AmountIngredient*
 
-2 -- 3 TbsMiracle Whip
 
-½ tspDijon Mustard
+[Amount]() [Ingredient]()
 
-½ tspLemon Juice
 
-½ tspAnchovy Paste
+2 -- 3 Tbs Miracle Whip
 
-1 TbsSweet Pickle Relish
+½ tsp Dijon Mustard
 
-Cooking Instructions:
+½ tsp Lemon Juice
+
+½ tsp Anchovy Paste
+
+1 Tbs Sweet Pickle Relish
+
+
+[Cooking Instructions:]()
+
 
 Whisk ingredients together.
+
 
 Serve with fish.

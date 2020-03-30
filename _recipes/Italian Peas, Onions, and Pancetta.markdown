@@ -1,6 +1,6 @@
 ---
-title: _recipes/Italian Peas, Onions, and Pancetta.markdown
-ref: _recipes/Italian Peas, Onions, and Pancetta.markdown
+title: Italian Peas, Onions, and Pancetta
+ref: Italian Peas, Onions, and Pancetta
 image: false
 time: 0
 category: food

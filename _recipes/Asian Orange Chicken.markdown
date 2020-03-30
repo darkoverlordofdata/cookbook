@@ -1,6 +1,6 @@
 ---
-title: _recipes/Asian Orange Chicken.markdown
-ref: _recipes/Asian Orange Chicken.markdown
+title: Asian Orange Chicken
+ref: Asian Orange Chicken
 image: false
 time: 0
 category: food

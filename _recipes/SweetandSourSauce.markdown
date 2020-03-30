@@ -1,6 +1,6 @@
 ---
-title: _recipes/SweetandSourSauce.markdown
-ref: _recipes/SweetandSourSauce.markdown
+title: SweetandSourSauce
+ref: SweetandSourSauce
 image: false
 time: 0
 category: food
@@ -9,28 +9,37 @@ ingredients: {}
 ---
 **Sweet and Sour Sauce**
 
-*AmountIngredient*
 
-½ CupKetchup
 
-½ CupSugar
+[Amount]() [Ingredient]()
 
-⅓ CupPineapple Juice
 
-⅓ CupWhite Vinegar
+½ Cup Ketchup
 
-2 Tbsp + 2 tspCider Vinegar
+½ Cup Sugar
 
-1 tspPonzu Sauce
+⅓ Cup Pineapple Juice
 
-Cooking Instructions:
+⅓ Cup White Vinegar
+
+2 Tbsp + 2 tsp Cider Vinegar
+
+1 tsp Ponzu Sauce
+
+
+[Cooking Instructions:]()
+
 
 Add ingredients into a bowl and whisk together.
 
+
 Taste and adjust as required.
+
 
 Transfer sauce to sauce pan
 
+
 Boil 2 -- 5 minutes until slightly thickened, stirring occastionally
+
 
 Serve at table.

@@ -1,6 +1,6 @@
 ---
-title: _recipes/mandarin pancakes.markdown
-ref: _recipes/mandarin pancakes.markdown
+title: mandarin pancakes
+ref: mandarin pancakes
 image: false
 time: 0
 category: food

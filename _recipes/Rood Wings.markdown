@@ -1,6 +1,6 @@
 ---
-title: _recipes/Rood Wings.markdown
-ref: _recipes/Rood Wings.markdown
+title: Rood Wings
+ref: Rood Wings
 image: false
 time: 0
 category: food

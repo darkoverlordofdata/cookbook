@@ -1,6 +1,6 @@
 ---
-title: _recipes/Ramen.markdown
-ref: _recipes/Ramen.markdown
+title: Ramen
+ref: Ramen
 image: false
 time: 0
 category: food
@@ -9,27 +9,32 @@ ingredients: {}
 ---
 **Ramen**
 
-*AmountIngredient*
+
+[Amount]() [Ingredient]()
+
 
 meat for stock
 
-6 cupswater
+6 cups water
 
-50 gramsginger
+50 grams ginger
 
 3 cloves garlic
 
-1leek
+1 leek
 
-4 tbspsoy sauce
 
-2 tbspsake (or ½ mirin ½ white wine)
+4 tbsp soy sauce
+
+2 tbsp sake (or ½ mirin ½ white wine)
 
 ½ tsp salt
 
-1 tspsesame oil
+1 tsp sesame oil
 
-Cooking Instructions:
+
+[Cooking Instructions:]()
+
 
 Combine first set of ingredients bring to a boil, reduce heat, and
 simmer for 2 hours. If using pre-made stock, combine with water in a
@@ -42,13 +47,20 @@ Strain stock thru cheese cloth.
 To the strained stock, add the second set of ingredients and return to
 simmer.
 
+
 To serve add to a bowl
 
 -   noodles
+
 -   boiled eggs
+
 -   bean sprouts
+
 -   bbq pork
+
 -   green onlions
+
 -   etc
 
 and pour soup over everything in the bowl.
+

@@ -1,33 +1,36 @@
 ---
-title: _recipes/Sweet Fire Chicken.markdown
-ref: _recipes/Sweet Fire Chicken.markdown
+title: Sweet Fire Chicken
+ref: Sweet Fire Chicken
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-Sweetfire Chicken Breast
+**Sweetfire Chicken Breast**
 
-*AmountIngredient*
 
-1 lbChicken Breast
+
+[Amount]() [Ingredient]()
+
+1 lb Chicken Breast
 
 3 Eggs
 
-1 tspFish Sauce
+1 tsp Fish Sauce
 
-1 tbspMirin
+1 tbsp Mirin
 
-1 ½ tbspHoisin
+1 ½ tbsp Hoisin
 
-½ cupFlour
+½ cup Flour
 
-¼ cupeachcornstarch
+¼ cup each cornstarch
 
 rice flour
 
-Cooking Instructions:
+
+[Cooking Instructions:]()
 
 Cut chicken into cubes
 
@@ -43,3 +46,5 @@ with flour.
 Place chicken on a sheet pan until all chicken is coated in flour.
 
 Deep fry chicken in small batches until golden brown.
+
+

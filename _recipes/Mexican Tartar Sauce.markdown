@@ -1,6 +1,6 @@
 ---
-title: _recipes/Mexican Tartar Sauce.markdown
-ref: _recipes/Mexican Tartar Sauce.markdown
+title: Mexican Tartar Sauce
+ref: Mexican Tartar Sauce
 image: false
 time: 0
 category: food

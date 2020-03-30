@@ -1,29 +1,33 @@
 ---
-title: _recipes/OnionMustardSoup.markdown
-ref: _recipes/OnionMustardSoup.markdown
+title: OnionMustardSoup
+ref: OnionMustardSoup
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-Onion and Mustard Soup
+**Onion and Mustard Soup**
 
-*AmountIngredient*
 
-50 gramsButter (½ Stick)
 
-2Onions
+[Amount]() [Ingredient]()
 
-2 ClovesGarlic
 
-50 gramsFlour (3/8 Cup + 1 Tbs)
+50 grams Butter (½ Stick)
 
-800 MlChicken Stock (27 Oz)
+2 Onions
 
-200 MlSingle Cream (7 oz)
+2 Cloves Garlic
 
-3 TbsMaille Dijon Mustard
+50 grams Flour (3/8 Cup + 1 Tbs)
+
+800 Ml Chicken Stock (27 Oz)
+
+200 Ml Single Cream (7 oz)
+
+3 Tbs Maille Dijon Mustard
+
 
 French Fried Onions
 
@@ -31,7 +35,10 @@ Pancetta (sauted until cooked)
 
 Chives (snipped)
 
-Cooking Instructions:
+
+
+[Cooking Instructions:]()
+
 
 Soften onions and garlic in buter.
 
@@ -41,6 +48,7 @@ Slowly add chicken stock
 
 Bring to a boil; simmer for 15 minutes
 
+
 Blend soup until smooth.
 
 Stir in Dijon Mustard and cream.
@@ -48,5 +56,6 @@ Stir in Dijon Mustard and cream.
 Heat through.
 
 Season to taste.
+
 
 Serve garnished with Onion Rings, grilled Pancetta and Chives.

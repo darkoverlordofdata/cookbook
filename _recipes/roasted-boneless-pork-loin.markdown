@@ -1,6 +1,6 @@
 ---
-title: _recipes/roasted-boneless-pork-loin.markdown
-ref: _recipes/roasted-boneless-pork-loin.markdown
+title: roasted-boneless-pork-loin
+ref: roasted-boneless-pork-loin
 image: false
 time: 0
 category: food

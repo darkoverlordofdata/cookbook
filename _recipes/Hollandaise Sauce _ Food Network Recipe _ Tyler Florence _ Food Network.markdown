@@ -1,6 +1,6 @@
 ---
-title: _recipes/Hollandaise Sauce _ Food Network Recipe _ Tyler Florence _ Food Network.markdown
-ref: _recipes/Hollandaise Sauce _ Food Network Recipe _ Tyler Florence _ Food Network.markdown
+title: Hollandaise Sauce _ Food Network Recipe _ Tyler Florence _ Food Network
+ref: Hollandaise Sauce _ Food Network Recipe _ Tyler Florence _ Food Network
 image: false
 time: 0
 category: food

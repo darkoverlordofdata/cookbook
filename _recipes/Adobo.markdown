@@ -1,60 +1,78 @@
 ---
-title: _recipes/Adobo.markdown
-ref: _recipes/Adobo.markdown
+title: Adobo
+ref: Adobo
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Adobo **
+**Adobo**
 
-*AmountIngredient*
 
-1 lbPork -- cut into cubes
 
-Marinade
+[Amount]() [Ingredient]()
 
-3 ClovesGarlic -- minced
 
-3 TbsSoy Sauce
+1 lb Pork -- cut into cubes
 
-2 TbsWater
+
+*Marinade*
+
+
+3 Cloves Garlic -- minced
+
+3 Tbs Soy Sauce
+
+2 Tbs Water
+
 
 *Searing*
+
 
 Peanut Oil
 
 *Cooking*
 
+
 ½ Onion -- chopped
 
-1 tspBlack Pepper
+1 tsp Black Pepper
 
-1Bay Leaf
+1 Bay Leaf
 
-3 TbsWhite Vinegar
+3 Tbs White Vinegar
 
 ¼ tsp Sugar
 
+
 Water to cover
 
-Vegetables
+
+*Vegetables*
+
 
 Green Beans -- fresh
 
-Cooking Instructions:
+
+[Cooking Instructions:]()
+
 
 Marinate cubed pork for 1 hour.
 
+
 Sear off pork cubes in heavy pot on Medium High in Peanut Oil
+
 
 Add Onion through Sugar.
 
 Add Water to cover.
 
+
 Cook 2 hours
 
+
 Add blanched Green Beans during last 10 minutes of cooking.
+
 
 Serve over rice.

@@ -1,6 +1,6 @@
 ---
-title: _recipes/LambMarinade.markdown
-ref: _recipes/LambMarinade.markdown
+title: LambMarinade
+ref: LambMarinade
 image: false
 time: 0
 category: food
@@ -9,11 +9,14 @@ ingredients: {}
 ---
 **Lamb Marinade Sicillian**
 
-*AmountIngredient*
 
-¼ CupOlive Oil
 
-½ CupRed Wine Vinegar
+[Amount]() [Ingredient]()
+
+
+¼ Cup Olive Oil
+
+½ Cup Red Wine Vinegar
 
 Basil
 
@@ -23,8 +26,12 @@ Onion Paste
 
 Garlic - minced
 
-Cooking Instructions:
+
+
+[Cooking Instructions:]()
+
 
 Combine ingredients.
+
 
 Baste on lamb chops or roast. Use remaining as sauce at table.

@@ -7,16 +7,32 @@
 
 fs = require('fs')
 path = require('path')
-{ exec } = require('child_process')
+{ exec, execSync } = require('child_process')
 
+
+fix_extra_lines = (file) ->
+    content = fs.readFileSync(file, 'utf8')
+    while content.indexOf("\\\n") > 0
+        content = content.replace("\\\n", "")
+    fs.writeFileSync(file, content)
+    return
+
+
+# {.underline}
+fix_underline = (file) ->
+    content = fs.readFileSync(file, 'utf8')
+    while content.indexOf("{.underline}") > 0
+        content = content.replace("{.underline}", "()")
+    fs.writeFileSync(file, content)
+    return
 
 fix_markdown = (file) ->
-    content = fs.readFileSync(file, 'utf8');
+    content = fs.readFileSync(file, 'utf8')
     
     result = """
         ---
-        title: #{file}
-        ref: #{file}
+        title: #{path.basename(file, path.extname(file))}
+        ref: #{path.basename(file, path.extname(file))}
         image: false
         time: 0
         category: food
@@ -41,6 +57,7 @@ console.log "hello world"
 #   iterate over data/docx and data/odt
 #
 count = 0
+
 fs.readdir "data/", (err, files) ->
     if err
         console.log err
@@ -58,14 +75,19 @@ fs.readdir "data/", (err, files) ->
                     fix_markdown "_recipes/#{out}"
                     
             when '.odt'
+                cmd = "soffice --headless --convert-to htm --outdir ./data \"data/#{file}\" "
+                execSync cmd
+                src = file.replace(".odt", ".htm")
                 out = file.replace(".odt", ".markdown")
-                cmd = "pandoc -o \"_recipes/#{out}\" \"data/#{file}\""
+                cmd = "pandoc -o \"_recipes/#{out}\" \"data/#{src}\""
                 exec cmd , (err, stdout, stderr) ->
                     if err
                         console.log err
                         process.exit(1)
 
                     fix_markdown "_recipes/#{out}"
+                    fix_extra_lines "_recipes/#{out}"
+                    fix_underline "_recipes/#{out}"
             
             when '.pdf'
                 out = file.replace(".pdf", "")

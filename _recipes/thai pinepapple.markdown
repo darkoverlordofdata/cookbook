@@ -1,6 +1,6 @@
 ---
-title: _recipes/thai pinepapple.markdown
-ref: _recipes/thai pinepapple.markdown
+title: thai pinepapple
+ref: thai pinepapple
 image: false
 time: 0
 category: food
@@ -9,29 +9,32 @@ ingredients: {}
 ---
 **Thai-style Pineapple Stirfry**
 
-*AmountIngredient*
 
-1 lbChicken
+[Amount]() [Ingredient]()
 
-1Onion
+1 lb Chicken
 
-1 canPineapple Chunks
+1 Onion
 
-1Red Bell Pepper
+1 can Pineapple Chunks
 
-2 clovesGarlic
+1 Red Bell Pepper
 
-¼ cupSweet Chili Sauce
+2 cloves Garlic
 
-1tbspFish Sauce
 
-1Lime, juice of
+¼ cup Sweet Chili Sauce
 
-2 tbspCilantro
+1tbsp Fish Sauce
 
-2 tbspPineapple Juice
+1 Lime, juice of
 
-Cooking Instructions:
+2 tbsp Cilantro
+
+2 tbsp Pineapple Juice
+
+
+[Cooking Instructions:]()
 
 Combine sauce ingredients (second set) in a bowl, and set aside
 

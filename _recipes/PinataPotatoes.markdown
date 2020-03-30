@@ -1,52 +1,64 @@
 ---
-title: _recipes/PinataPotatoes.markdown
-ref: _recipes/PinataPotatoes.markdown
+title: PinataPotatoes
+ref: PinataPotatoes
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Pinata Potatoes **
+**Pinata Potatoes**
 
-*AmountIngredient*
 
-1 CupOnion, chopped
 
-1 TbsCooking Oil
+[Amount]() [Ingredient]()
+
+
+1 Cup Onion, chopped
+
+1 Tbs Cooking Oil
 
 3 Baking Potatoes, large, cut lengthwise, baked
 
-1 16oz canRosarita Refried Beans
+1 16oz can Rosarita Refried Beans
 
-1 ½ CupsChicken, cooked and shredded
+1 ½ Cups Chicken, cooked and shredded
 
-1 CupCheddar Cheese, shredded -- divided into ½ Cup portions
+1 Cup Cheddar Cheese, shredded -- divided into ½ Cup portions
 
-½ CupTaco Sauce, Rosarita
+½ Cup Taco Sauce, Rosarita
 
-1 -- 21/4 oz canBlack Olives, sliced
+1 -- 21/4 oz can Black Olives, sliced
 
-½ CupGreen Onions, chopped
+½ Cup Green Onions, chopped
 
-½ tspGarlic Powder
+½ tsp Garlic Powder
 
-½ tspGround Cumin
+½ tsp Ground Cumin
 
-¼ tspBlack Pepper
+¼ tsp Black Pepper
 
-Cooking Instructions:
+
+
+[Cooking Instructions:]()
+
 
 In large skillet, saute onion in oil until tender.
 
 Scoop inside of baked potatoes into skillet, leaving ¼ inch thick skin
 
+
 Add beans, chicken, cheese (½ Cup), and remaining ingredients and stir.
+
 
 Heat through.
 
+
 Stuff potato skins with the potato mixture.
+
 
 Sprinkle with remaining cheese.
 
+
 Put under broiler until cheese melted.
+

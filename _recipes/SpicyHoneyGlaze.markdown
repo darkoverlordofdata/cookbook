@@ -1,36 +1,44 @@
 ---
-title: _recipes/SpicyHoneyGlaze.markdown
-ref: _recipes/SpicyHoneyGlaze.markdown
+title: SpicyHoneyGlaze
+ref: SpicyHoneyGlaze
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-**Spicy Honey Glaze**
+**Spicy Honey Glaze**[ ]{style="font-weight: normal"}
 
-*AmountIngredient*
 
-½ CupCider Vinegar
 
-½ CupHoney
+[Amount]() [Ingredient]()
 
-2 TbsPacked Brown Sugar
 
-2 TbsVegetable Oil
+½ Cup Cider Vinegar
 
-2 -- 3 tspDry Mustard (Coleman's)
+½ Cup Honey
 
-1/8 tspGround ginger
+2 Tbs Packed Brown Sugar
 
-DashCayenne Pepper
+2 Tbs Vegetable Oil
 
-Cooking Instructions:
+2 -- 3 tsp Dry Mustard (Coleman's)
+
+1/8 tsp Ground ginger
+
+Dash Cayenne Pepper
+
+
+
+[Cooking Instructions:]()
+
 
 In saucepan, combine ingredients, mixing well.
+
 
 Bring to a boil.
 
 Reduce heat and simmer about 10 minutes, until slightly thickened.
+
 
 Use on ham.

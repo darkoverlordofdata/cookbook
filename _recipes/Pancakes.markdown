@@ -1,6 +1,6 @@
 ---
-title: _recipes/Pancakes.markdown
-ref: _recipes/Pancakes.markdown
+title: Pancakes
+ref: Pancakes
 image: false
 time: 0
 category: food

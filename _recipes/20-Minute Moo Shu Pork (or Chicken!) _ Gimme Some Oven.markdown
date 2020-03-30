@@ -1,6 +1,6 @@
 ---
-title: _recipes/20-Minute Moo Shu Pork (or Chicken!) _ Gimme Some Oven.markdown
-ref: _recipes/20-Minute Moo Shu Pork (or Chicken!) _ Gimme Some Oven.markdown
+title: 20-Minute Moo Shu Pork (or Chicken!) _ Gimme Some Oven
+ref: 20-Minute Moo Shu Pork (or Chicken!) _ Gimme Some Oven
 image: false
 time: 0
 category: food

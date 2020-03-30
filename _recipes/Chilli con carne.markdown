@@ -1,6 +1,6 @@
 ---
-title: _recipes/Chilli con carne.markdown
-ref: _recipes/Chilli con carne.markdown
+title: Chilli con carne
+ref: Chilli con carne
 image: false
 time: 0
 category: food

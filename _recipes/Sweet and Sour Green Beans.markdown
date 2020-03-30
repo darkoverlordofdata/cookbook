@@ -1,6 +1,6 @@
 ---
-title: _recipes/Sweet and Sour Green Beans.markdown
-ref: _recipes/Sweet and Sour Green Beans.markdown
+title: Sweet and Sour Green Beans
+ref: Sweet and Sour Green Beans
 image: false
 time: 0
 category: food
