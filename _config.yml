@@ -1,18 +1,8 @@
+# Dependencies
+markdown: kramdown
+highlighter: rouge
 
-# Site meta
-title: Cookbook
-tagline: 'All the Food'
-description: 'Family Recipes.'
-keywords: 'food'
-url: https://github.com/darkoverlordofdata
-
-baseurl: "/cookbook" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: overlordofdata
-github_username:  darkoverlordofdata
-
-# Build settings
-theme: minima
+# gems
 plugins:
   - jekyll-feed
   # - jekyll-gist
@@ -29,7 +19,6 @@ exclude:
     LICENSE.md,
     .gitignore,
     package.json,
-    _js,
     _scss,
     _images,
     gulpfile.js,
@@ -42,7 +31,37 @@ exclude:
     convert.sh
   ]
 
+# Site meta
+title: Cookbook
+tagline: 'All the Food'
+description: 'Family Recipes.'
+keywords: 'food'
+url: https://github.com/darkoverlordofdata
+assets: /assets
+theme: minima
+
+baseurl: "/cookbook" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: overlordofdata
+github_username:  darkoverlordofdata
+
+
 collections:
   recipes:
     output: true
 
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+      lang: en
+      permalink: /news/:title/
+  - scope:
+      path: ''
+      type: recipes
+    values:
+      layout: recipe
+      lang: en
+      permalink: /:title/

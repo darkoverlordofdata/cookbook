@@ -1,3 +1,12 @@
+---
+title: IrishPorkStew
+ref: IrishPorkStew
+image: false
+time: 0
+category: food
+tags: {}
+ingredients: {}
+---
 # Irish Pork Stew - Chef John's
 
 Amount|Ingredients

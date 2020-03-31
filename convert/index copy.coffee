@@ -58,22 +58,12 @@ console.log "hello world"
 #
 count = 0
 
-fs.readdir "recipes/", (err, files) ->
+fs.readdir "data/", (err, files) ->
     if err
         console.log err
         process.exit(1)
     files.forEach (file, index) ->
         switch path.extname(file)
-            when ".md", ".markdown"
-                console.log file
-                cmd = "cp -f \"recipes/#{file}\" \"_recipes/#{file}\""
-                exec cmd , (err, stdout, stderr) ->
-                    if err
-                        console.log err
-                        process.exit(1)
-
-                    fix_markdown "_recipes/#{file}"
-
             when '.docx'
                 out = file.replace(".docx", ".markdown")
                 cmd = "pandoc -o \"_recipes/#{out}\" \"data/#{file}\""
