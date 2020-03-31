@@ -11,8 +11,8 @@ ingredients: {}
 
 *Marinade*
 
-Amount | Ingredient
-----|----
+|Amount | Ingredient|
+|----|----|
 1/2 Cup | Hoisin Sauce
 1/4 Cup | Rice Vinegar
 2 Tbs | Oyster Sauce
@@ -23,8 +23,8 @@ Amount | Ingredient
 
 *Moo Shu*
 
-Amount | Ingredient
-----|----
+|Amount | Ingredient|
+|----|----|
 1 Lb | Boneless Pork Chops, sliced into very thin strips (may use boneless, skinless Chicken Breasts)
 3 Tbs | Peanut or Vegetable Oil
 2 | Eggs, large, whisked
@@ -34,8 +34,8 @@ Amount | Ingredient
 
 *For Serving*
 
-Amount | Ingredient
-----|----
+|Amount | Ingredient|
+|----|----|
 || Flour Tortillas
 || Lettuce Cups
 || Rice
@@ -43,8 +43,8 @@ Amount | Ingredient
 
 *Optional Toppings*
 
-Amount | Ingredient
-----|----
+|Amount | Ingredient|
+|----|----|
 || Hoisin
 || Soy Sauce
 || Green Onions, thinly sliced

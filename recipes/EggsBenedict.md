@@ -1,7 +1,7 @@
 # Eggs Benedict - Chef Tyler Florence
 
-Amount | Ingredient
-----|----
+|Amount | Ingredient|
+|----|----|
 8 Slices | Canadian Bacon or Sliced Ham
 4 | English Muffins, split into halves
 2 tsp | White Vinegar

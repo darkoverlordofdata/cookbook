@@ -1,7 +1,7 @@
 # Irish Pork Stew - Chef John's
 
-Amount|Ingredients
-----|----
+|Amount | Ingredient|
+|----|----|
 1 - 2 1/2 lb | Boneless Pork Shoulder, cut into 2 inch cubes
 | Salt & Black Pepper, to taste
 1 Tbs | Vegetable Oil
