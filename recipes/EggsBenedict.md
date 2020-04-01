@@ -9,7 +9,7 @@ Amount | Ingredient
 || Salt & Pepper, to taste
 || Hollandaise Sauce, see Recipe
 || Fresh Flat Leaf Parsley, chopped, for garnish
-|
+
 ## Directions
 
 Brown the Canadian Bacon or Ham in a medium skillet.
