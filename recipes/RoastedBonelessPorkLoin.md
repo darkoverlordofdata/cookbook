@@ -4,7 +4,6 @@ Oven 450
 
 Amount | Ingredient
 ----|----
-
 1 (3 - 4 Lb) | Boneless, Center-Cut Pork Loin Roast
 4 - 5 Cloves | Garlic, minced
 1 Tbs | Kosher Salt

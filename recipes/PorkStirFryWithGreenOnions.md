@@ -2,7 +2,6 @@
 
 Amount | Ingredient
 ----|----
-
 1 Lb | Pork Loin or Boneless Pork Chops
 2 Tbs | Soy Sauce
 1 tsp | Sugar
