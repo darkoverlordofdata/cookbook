@@ -8,7 +8,7 @@
 4 tsp | Lee & Perrins Worcestershire sauce  
 2 Tbsp | dijon mustard  
 ⅛ tsp | black pepper  
-few drops liquid smoke  
+few drops | liquid smoke  
   
 ## Cooking Instructions  
 Whisk together ketchup and sugar, make sure the mix is smooth  

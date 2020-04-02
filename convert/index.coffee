@@ -66,7 +66,12 @@ fs.readdir "recipes/", (err, files) ->
         switch path.extname(file)
             when ".md", ".markdown"
                 console.log file
-                cmd = "cp -f \"recipes/#{file}\" \"_recipes/#{file}\""
+                if (process.platform === "win32") {
+                    cmd = "copy /y \"recipes\\#{file}\" \"_recipes\\#{file}\""
+                }
+                else {
+                    cmd = "cp -f \"recipes/#{file}\" \"_recipes/#{file}\""
+                }
                 exec cmd , (err, stdout, stderr) ->
                     if err
                         console.log err
