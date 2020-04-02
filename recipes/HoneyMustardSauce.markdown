@@ -1,7 +1,7 @@
 # Honey Mustard Sauce  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 ¼ Cup | Dijon Mustard  
 ⅜ Cup | Honey  
 ½ tsp | Garlic Powder  

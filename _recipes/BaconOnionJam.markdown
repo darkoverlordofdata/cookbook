@@ -10,7 +10,7 @@ ingredients: {}
 # Bacon Onion Jam  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 Pound | Bacon -- diced  
 4 | Onions -- diced  
 ½ Cup | Brown Sugar - Loosely packed  

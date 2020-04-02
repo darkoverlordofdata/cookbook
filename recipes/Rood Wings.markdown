@@ -1,7 +1,7 @@
 # Rood Wings  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 lb | Chicken Wings  
 1 Tbsp | Peanut Oil  
 1 Cup | Chicken Stock  

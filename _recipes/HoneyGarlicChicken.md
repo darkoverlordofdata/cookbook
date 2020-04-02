@@ -11,8 +11,8 @@ ingredients: {}
   
 Oven:  400  
   
-|Amount | Ingredient|  
-||----|----||  
+||Amount | Ingredient||  
+|||----|----|||  
 4 Cloves | Garlic  
 ¼ Cup | Honey  
 2 Tbsp | Apple Cider Vinegar  

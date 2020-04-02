@@ -10,7 +10,7 @@ ingredients: {}
 # Ramen  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 meat for stock  
 6 Cups | water  
 50 grams ginger  

@@ -10,7 +10,7 @@ ingredients: {}
 # Spicy Honey Shrimp  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 ½ Cup | Honey  
 ¼ Cup | Soy Sauce  
 1 tsp | Sesame Seeds  

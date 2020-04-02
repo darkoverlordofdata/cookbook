@@ -1,7 +1,7 @@
 # Thai Coconut Curry  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 lb | Shrimp or Chicken  
 1 | Shallot  
 1 clove | Garlic  

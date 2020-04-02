@@ -10,7 +10,7 @@ ingredients: {}
 # Macaroni Salad  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 || Elbow Macroni  
 || Hard Cooked Eggs, choped  
 || Pimentos, drained  

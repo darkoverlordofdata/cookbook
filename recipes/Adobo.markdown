@@ -1,7 +1,7 @@
 # Adobo  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 lb | Pork -- cut into cubes  
 *Marinade*|  
 3 Cloves | Garlic -- minced  

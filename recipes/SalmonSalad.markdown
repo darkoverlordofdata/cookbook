@@ -1,7 +1,7 @@
 # Salmon Salad  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 6 oz | Salmon -- cooked  
 1 | Green Onion  
 3 oz | Cream Cheese  

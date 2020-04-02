@@ -3,7 +3,7 @@
 Oven 400  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 | Salmon Filet, large  
 || Green Onions, trimmed  
 || Dark Brown Sugar, to cover Filet  

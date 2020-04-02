@@ -12,7 +12,7 @@ ingredients: {}
 Make the day before for best flavor.  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 4\~5 Tbsp | bacon bits  
 4 | medium potatoes  
 5 | large eggs  

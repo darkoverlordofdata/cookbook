@@ -1,7 +1,7 @@
 # Italian Peas, Onions, and Pancetta  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 Tbsp | Olive Oil  
 || Pancetta, diced  
 1 Clove | Garlic  

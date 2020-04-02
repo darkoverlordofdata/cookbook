@@ -10,7 +10,7 @@ ingredients: {}
 # Chili Powder  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 2 Tbsp | Chile Powder  
 2 Tbsp | Smoked Paprika  
 1 Tbsp | Oregano  

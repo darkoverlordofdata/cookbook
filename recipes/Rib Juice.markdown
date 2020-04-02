@@ -1,7 +1,7 @@
 # Rib Juice  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 4 -5 lbs | Beef Short Ribs |   
 || Salt  
 || Pepper  

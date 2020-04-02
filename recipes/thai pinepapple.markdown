@@ -1,7 +1,7 @@
 # Thai-style Pineapple Stirfry  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 lb | Chicken  
 1 | Onion  
 1 can | Pineapple Chunks  

@@ -1,7 +1,7 @@
 # Pasta Salad  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 || Pasta -- bow ties, cork screws, wagon wheels  
 || Pimentos, drained  
 || Black Olives, chopped  

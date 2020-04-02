@@ -10,7 +10,7 @@ ingredients: {}
 # Onion and Mustard Soup  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 50 grams | Butter (½ Stick)  
 2 | Onions  
 2 Cloves | Garlic  

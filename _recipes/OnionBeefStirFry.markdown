@@ -10,7 +10,7 @@ ingredients: {}
 # Onion Beef  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 *Marinade*|  
 3 Tbsp | Soy Sauce  
 3 Tbsp | Mirin Rice Wine  

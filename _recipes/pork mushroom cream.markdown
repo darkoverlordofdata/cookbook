@@ -10,7 +10,7 @@ ingredients: {}
 # Pork Medallions in Mushroom Cream Sauce  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 | pork tenderloin, cut into ½ inch thick medallions  
 2 Tbsp | butter  
 1 Tbsp | olive oil  

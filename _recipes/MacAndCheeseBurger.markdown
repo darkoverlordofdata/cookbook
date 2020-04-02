@@ -10,7 +10,7 @@ ingredients: {}
 # Cheese Burger Mac  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 | Onion -- finely diced  
 || Butter for sauteing onion  
 1 lb | Ground Beef  

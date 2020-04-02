@@ -1,7 +1,7 @@
 # Red Enchilada Sauce  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 ½ Cup | Diced Yellow Onion  
 4 Cloves | Garlic  
 2 oz | Dried Guajillo Peppers  

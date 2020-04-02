@@ -10,7 +10,7 @@ ingredients: {}
 # Chilli con carne  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 lb | stew meat, chicken thighs, pork shoulder, etc  
 1 Tbsp | bacon fat  
 1 | onion, diced  

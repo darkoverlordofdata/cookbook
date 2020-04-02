@@ -9,8 +9,8 @@ ingredients: {}
 ---
 # Pork Stir-fry with Green Onion  
   
-|Amount | Ingredient|  
-||----|----||  
+||Amount | Ingredient||  
+|||----|----|||  
 1 lb | Pork Loin or Boneless Pork Chops  
 2 Tbsp | Soy Sauce  
 1 tsp | Sugar  

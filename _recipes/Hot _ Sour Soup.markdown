@@ -10,7 +10,7 @@ ingredients: {}
 # Hot & Sour Soup  
   
 |Amount|Ingredient||Half Batch  
-|----|----||----  
+||----|----|||----  
 1 quart | 2 Cups | chicken stock  
 1 quart | 2 Cups | water  
 2 Tbsp | 1 Tbsp | mirin  

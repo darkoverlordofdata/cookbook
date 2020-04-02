@@ -10,7 +10,7 @@ ingredients: {}
 # Shrimp Scampi  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 6 cloves | garlic, 3 grated, 3 sliced  
 1 tsp | salt  
 3 Tbsp | olive oil  

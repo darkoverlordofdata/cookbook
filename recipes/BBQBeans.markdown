@@ -1,7 +1,7 @@
 # BarBQ Beans (Jan's)  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 8 oz Can | B & M Baked Beans  
 2 Tbsp | Molasses  
 3 Tbsp | Brown Sugar  

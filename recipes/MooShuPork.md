@@ -1,8 +1,8 @@
 # Moo Shu Pork (or Chicken)  
   
   
-|Amount | Ingredient|  
-||----|----||  
+||Amount | Ingredient||  
+|||----|----|||  
 *Marinade*|  
 ½ Cup | Hoisin Sauce  
 ¼ Cup | Rice Vinegar  

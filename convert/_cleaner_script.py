@@ -14,7 +14,7 @@ def clean(text):
 
 
 
-    text = re.sub(r"----\|----\n\n", r"|----|----|\n", text)
+    text = re.sub(r"----\|----\n\n", r"||----|----||\n", text)
     text = re.sub("## Directions", "## Cooking Instructions", text)
             
     for pat, rep in repls:

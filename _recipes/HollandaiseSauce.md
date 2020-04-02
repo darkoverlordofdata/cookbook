@@ -9,8 +9,8 @@ ingredients: {}
 ---
 # Hollandaise Sauce - Chef Tyler Florence  
   
-|Amount | Ingredient|  
-||----|----||  
+||Amount | Ingredient||  
+|||----|----|||  
 4 | Egg Yolks  
 1 Tbsp | Lemon Juice, freshly squeezed  
 ½ Cup (1 Stick) | Butter, melted  

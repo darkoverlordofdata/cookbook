@@ -1,7 +1,7 @@
 # Lamb Marinade Sicillian  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 ¼ Cup | Olive Oil  
 ½ Cup | Red Wine Vinegar  
 || Basil  

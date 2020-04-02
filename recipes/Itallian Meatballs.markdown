@@ -3,7 +3,7 @@
 Oven 400°  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 lb | ground meat, half pork half beef  
 1 | egg  
 ¼ Cup | milk  
@@ -25,7 +25,7 @@ Bake meatballs at 400° for 20 minutes or until done.
   
 # Sauce  
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 1 can | pasta sauce  
 || black pepper  
 || dried onions  

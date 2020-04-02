@@ -10,7 +10,7 @@ ingredients: {}
 # Kalbi Sauce  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 5 Cloves | Garlic, smashed  
 3 planks | Ginger, a plank is ¾ by 2 by ⅛ inches  
 1 Cup | Soy Sauce  

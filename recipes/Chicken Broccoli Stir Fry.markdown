@@ -1,7 +1,7 @@
 # Chicken Broccoli Stir Fry  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 Marinade  
 1 lb | boneless chicken thighs  
 2 Tbsp | green onion whites  

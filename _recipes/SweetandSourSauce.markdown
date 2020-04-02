@@ -10,7 +10,7 @@ ingredients: {}
 # Sweet and Sour Sauce  
   
 |Amount|Ingredient|  
-|----|----|  
+||----|----||  
 ½ Cup | Ketchup  
 ½ Cup | Sugar  
 ⅓ Cup | Pineapple Juice  

@@ -1,7 +1,7 @@
 # Name  
   
-|Amount | Ingredient|  
-||----|----||  
+||Amount | Ingredient||  
+|||----|----|||  
 1 Cup | Something Measured  
 || Garnish  
 Sub Header|  
