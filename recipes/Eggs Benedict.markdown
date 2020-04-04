@@ -7,7 +7,7 @@
 2 tsp | White Vinegar  
 8 | Eggs  
 || Salt & Pepper, to taste  
-|| Hollandaise Sauce, see Recipe  
+|| Hollandaise Sauce, [Here](./Hollandaise Sauce)  
 || Fresh Flat Leaf Parsley, chopped, for garnish  
   
 ## Cooking Instructions  

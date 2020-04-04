@@ -16,7 +16,8 @@
 Grind all ingredients in a mortar with pestal.  
   
 When well ground, add:  
-1 Tbsp Dried Onion  
+
+ - 1 Tbsp Dried Onion  
   
 This recipe doubles and halves well  
   

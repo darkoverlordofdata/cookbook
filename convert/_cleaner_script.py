@@ -33,7 +33,7 @@ def clean(text):
 
     return text
     
-source_folder = "../recipes"
+source_folder = "../new"
 dest_folder = "../clean"
 
 def all_local_files(func):
