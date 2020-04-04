@@ -12,7 +12,7 @@ ingredients: {}
 A more mustardy version that what one usually finds  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 ½ Cup | ketchup  
 5 Tbsp | soy sauce  
 2 Tbsp | brown sugar  

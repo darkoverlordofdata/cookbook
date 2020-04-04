@@ -12,7 +12,7 @@ ingredients: {}
 Oven 325°F  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 3-5 lbs | Beef Chuck  
 5-7 | Carrots, peeled and cut to 3-4 inches  
 3-4 Ribs | Celery, cut to 3-4 inches  

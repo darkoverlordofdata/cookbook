@@ -10,7 +10,7 @@ ingredients: {}
 # Herbed Alfredo  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 2 Tbsp | Butter  
 1 Tbsp | Flour  
 ½ Cup | Hot Milk  

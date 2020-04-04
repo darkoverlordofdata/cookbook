@@ -10,7 +10,7 @@ ingredients: {}
 # Broccoli Beef  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 2 crowns | Broccoli, cut into bite size pieces  
 1 lb | Beef, cut into bite size pieces  
 2 clove | Garlic, minced  

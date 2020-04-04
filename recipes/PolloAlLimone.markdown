@@ -1,7 +1,7 @@
 # Pollo Al Limone  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 lb | Chicken  
 || Flour  
 ½ tsp | Rosemary  

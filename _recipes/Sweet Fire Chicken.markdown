@@ -10,7 +10,7 @@ ingredients: {}
 # Sweetfire Chicken Breast  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 lb | Chicken Breast  
 3 | Eggs  
 1 tsp | Fish Sauce  

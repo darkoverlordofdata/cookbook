@@ -1,7 +1,7 @@
 # Pancakes  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 ¼ Cups | Flour  
 1 Tbsp | Sugar  
 1 Tbsp | Baking Powder  

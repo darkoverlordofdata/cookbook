@@ -3,7 +3,7 @@
 for Potato Chip Chicken  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 ½ tsp | Salt  
 ¾ tsp | Pepper  
 1 Tbsp | Garlic Granules  

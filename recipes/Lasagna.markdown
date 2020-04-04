@@ -6,7 +6,7 @@ before you make it
 Oven 350°F  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 Red Sauce |  
 1 | onion, diced  
 1 clove | garlic, minced  

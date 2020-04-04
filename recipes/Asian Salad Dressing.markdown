@@ -1,7 +1,7 @@
 # Asian Salad Dressing  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 ½ Cup | mayonnaise  
 1 ½ tsp | soy sauce  
 ¼ tsp | sesame oil  

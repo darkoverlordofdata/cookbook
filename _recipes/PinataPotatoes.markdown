@@ -10,7 +10,7 @@ ingredients: {}
 # Piñata Potatoes  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 Cup | Onion, chopped  
 1 Tbsp | Cooking Oil  
 3 | Baking Potatoes, large, cut lengthwise, baked  

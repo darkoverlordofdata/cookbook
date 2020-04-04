@@ -12,7 +12,7 @@ ingredients: {}
 Oven 400  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 4 strips | Bacon, chopped  
 8 oz | Mushrooms, sliced  
 1 | Shallot, diced  

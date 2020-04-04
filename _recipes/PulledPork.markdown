@@ -10,7 +10,7 @@ ingredients: {}
 # Pulled Pork  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 2 |Pork Shoulder Steaks, about 2 lbs  
 1 |Onion, vertically sliced  
 2 cloves | Garlic, smashed  

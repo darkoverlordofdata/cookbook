@@ -1,7 +1,7 @@
 # Spicy Honey Glaze  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 ½ Cup | Cider Vinegar  
 ½ Cup | Honey  
 2 Tbsp | Packed Brown Sugar  

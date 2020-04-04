@@ -1,7 +1,7 @@
 # Mexican | Tartar Sauce  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 ½ Cup | Sour Cream  
 ¼ Cup | Mayonaise  
 1 Clove | Garlic  

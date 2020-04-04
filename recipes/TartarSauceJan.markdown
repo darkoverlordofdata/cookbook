@@ -1,7 +1,7 @@
 # Tarter Sauce - Jan's  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 2 - 3 Tbsp | Miracle Whip  
 ½ tsp | Dijon Mustard  
 ½ tsp | Lemon Juice  

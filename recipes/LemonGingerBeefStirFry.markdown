@@ -1,7 +1,7 @@
 # Lemom-Ginger Beef Stirfry  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 lb | Flank Steak  
 *Marinade*  
 1 | Juice of Small Lemon  

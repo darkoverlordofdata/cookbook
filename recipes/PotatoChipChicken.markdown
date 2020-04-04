@@ -3,7 +3,7 @@
 Oven 425  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 lb | Raw Chicken Tenders  
 1 7 ¾ oz | Bag Lays Lightly Salted Potato Chips (Light Blue sack)  
 For Ranch Chicken:|  

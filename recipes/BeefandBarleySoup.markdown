@@ -1,7 +1,7 @@
 # Beef & Barley Soup  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1.5 lbs | Flanken Ribs, Cut into riblets  
  || Oil for browning ribs  
 1 | Onion, diced  

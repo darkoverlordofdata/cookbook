@@ -12,7 +12,7 @@ ingredients: {}
 Oven 350  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 3 - 4 oz | Salmon  
 ½ | Boiler Onion, grind with salmon  
 1 | Shallot, minced  

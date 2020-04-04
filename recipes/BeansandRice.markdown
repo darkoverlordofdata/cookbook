@@ -1,7 +1,7 @@
 # Beans and Rice  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 Tbsp | Bacon Fat  
 2 Tbsp | Dried Onion  
 1 tsp | Garlic Granules  

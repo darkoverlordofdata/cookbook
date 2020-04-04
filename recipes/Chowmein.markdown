@@ -1,7 +1,7 @@
 # Chowmein  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 2 ribs | Celery  
 ¾ | Onion  
 10 oz | Yakisoba Noodles, Instant Ramen works well too  

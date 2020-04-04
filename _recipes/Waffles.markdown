@@ -10,7 +10,7 @@ ingredients: {}
 # Waffles  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 ¾ Cups | All-Purpose Flour  
 1 Tbsp | Baking Powder  
 ¼ tsp | Kosher Salt  

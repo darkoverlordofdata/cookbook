@@ -10,7 +10,7 @@ ingredients: {}
 # Orange Chicken  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
  || Whole Chicken  
  || Red Bell Pepper  
  || Snow Peas  
@@ -30,7 +30,7 @@ Drain chicken and stir fry in oil
   
 # Sauce  
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 ½ Cup | Chicken Stock  
 ½ Cup | Orange concentrate  
 ⅓ Cup | Oyster Sauce  

@@ -10,7 +10,7 @@ ingredients: {}
 # Orange Carnitas  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 lb | Bone-in Pork Shoulder or Butt, fat trimmed  
 2 tsp | Orange Zest  
 2 Cups | Orange Juice (fresh squeezed and/or bottled) -- divided  

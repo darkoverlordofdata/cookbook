@@ -3,7 +3,7 @@
 Oven 365  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 stick | butter  
 3 tablespoon | yellow mustard  
 1 tablespoon | poppy seeds  

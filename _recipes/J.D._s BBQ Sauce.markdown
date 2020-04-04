@@ -10,7 +10,7 @@ ingredients: {}
 # J.D.'s BBQ Sauce  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 24 oz | Ketchup  
 1 lb | Brown Sugar  
 2 Tbsp + ½ tsp | Tiger sauce  

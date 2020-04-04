@@ -1,7 +1,7 @@
 # Icing for Pastry  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 3 Tbsp | Milk  
 Splash | Vanilla  
 2 Tbsp | Butter - Softened  

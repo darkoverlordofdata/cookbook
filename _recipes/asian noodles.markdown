@@ -10,7 +10,7 @@ ingredients: {}
 # Asian Noodles  
   
 |Amount|Ingredient|  
-||----|----||  
+|----|----|  
 1 | egg  
 ¾ Cup | flour  
 ¾ tsp | salt  
