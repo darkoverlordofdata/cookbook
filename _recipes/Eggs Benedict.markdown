@@ -1,3 +1,12 @@
+---
+title: Eggs Benedict
+ref: Eggs Benedict
+image: false
+time: 0
+category: food
+tags: {}
+ingredients: {}
+---
 # Eggs Benedict  
   
 |Amount | Ingredient|  

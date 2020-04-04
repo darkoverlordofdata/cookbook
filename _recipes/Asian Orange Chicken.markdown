@@ -22,21 +22,14 @@ Marinade |
 1 tsp | Corn Starch  
  || To taste Garlic Chili Sauce  
  || To taste Ginger - minced  
-  
-## Cooking Instructions  
-Cut up chicken for stir fry and marinate  
-Stir fry vegetables in oil and set aside  
-Drain chicken and stir fry in oil  
-  
-# Sauce  
-|Amount|Ingredient|  
-|----|----|  
+*Sauce*|  
 ½ Cup | Chicken Stock  
 ½ Cup | Orange concentrate  
 ⅓ Cup | Oyster Sauce  
   
 ## Cooking Instructions  
-Combine ingredients in vegetable pan, reduce  
-When sauce reduced, add chicken and vegetables to warm through.  
-  
-  
+Cut up chicken for stir fry and marinate  
+Stir fry vegetables in oil and set aside  
+Drain chicken and stir fry in oil  
+Remove chicken from pan and add sauce ingredients  
+When sauce has reduced slightly add chicken and vegetables back to the pan  
