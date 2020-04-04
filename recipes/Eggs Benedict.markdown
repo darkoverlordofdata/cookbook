@@ -1,13 +1,4 @@
----
-title: EggsBenedict
-ref: EggsBenedict
-image: false
-time: 0
-category: food
-tags: {}
-ingredients: {}
----
-# Eggs Benedict
+# Eggs Benedict  
   
 |Amount | Ingredient|  
 |----|----|  
@@ -39,5 +30,5 @@ Season with Salt and Pepper, to taste.
 Spoon *Hollandaise Sauce* of the Eggs.  
 Garnish with chopped Parsley.  
   
-## Source
-Chef Tyler Florence
+## Source  
+Chef Tyler Florence  

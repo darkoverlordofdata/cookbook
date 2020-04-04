@@ -31,10 +31,10 @@ Finish with a splash of vinegar
 Larger Batch Sizes  
   
 Ingredient|for 6|for 10  
-|----|----||----  
-Bacon | 6 strips | 10 strips |   
-Green Beans | 2 cans | 3 cans |   
-Dried Onion | 2 Tbsp | 3 Tbsp |   
-Cider Vinegar | ¼ Cup | ⅓ Cup + 1Tbsp |   
-Sugar | 2 Tbsp | 3 Tbsp |   
+|----|----|----|  
+Bacon | 6 strips | 10 strips  
+Green Beans | 2 cans | 3 cans  
+Dried Onion | 2 Tbsp | 3 Tbsp  
+Cider Vinegar | ¼ Cup | ⅓ Cup + 1Tbsp  
+Sugar | 2 Tbsp | 3 Tbsp  
   

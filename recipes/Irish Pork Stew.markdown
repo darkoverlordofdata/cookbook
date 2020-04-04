@@ -1,13 +1,4 @@
----
-title: IrishPorkStew
-ref: IrishPorkStew
-image: false
-time: 0
-category: food
-tags: {}
-ingredients: {}
----
-# Irish Pork Stew 
+# Irish Pork Stew   
   
 |Amount | Ingredient|  
 |----|----|  
@@ -17,7 +8,7 @@ ingredients: {}
 1 Tbsp | Butter  
 1 Pinch | Salt  
 1 Large | Onion, chopped  
-1 Clove	| Garlic, minced  
+1 Clove | Garlic, minced  
 1 Tbsp | All-purpose Flour  
 1 | Bay Leaf  
 ¾ tsp | Caraway Seed  
@@ -52,5 +43,5 @@ Add Potatoes, and cook until fork tender and mashable.
 When cooked, mash Potatoes with Butter and Salt until smooth.  
 Serve stew in bowls over mashed Potatoes.  
   
-## Source
-Chef John (allrecipes)
+## Source  
+Chef John (allrecipes)  

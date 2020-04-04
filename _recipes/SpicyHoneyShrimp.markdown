@@ -16,7 +16,7 @@ ingredients: {}
 1 tsp | Sesame Seeds  
 2 Cloves | Garlic  
 ¼ tsp | Chili Paste  
-1 lb | Shrimp (Fresh or Froz | en)  
+1 lb | Shrimp (Fresh or Frozen)  
   
 ## Cooking Instructions  
 Combine sauce ingredients and pour over Shrimp  

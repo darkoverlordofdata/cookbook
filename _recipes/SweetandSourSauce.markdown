@@ -15,7 +15,7 @@ ingredients: {}
 ½ Cup | Sugar  
 ⅓ Cup | Pineapple Juice  
 ⅓ Cup | White Vinegar  
-2 Tbsp | + 2 tsp | Cider Vinegar  
+2 Tbsp + 2 tsp | Cider Vinegar  
 1 tsp | Ponzu Sauce  
   
 ## Cooking Instructions  

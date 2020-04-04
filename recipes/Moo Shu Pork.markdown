@@ -1,15 +1,6 @@
----
-title: MooShuPork
-ref: MooShuPork
-image: false
-time: 0
-category: food
-tags: {}
-ingredients: {}
----
-# Moo Shu Pork
-
-Also good with chicken
+# Moo Shu Pork  
+  
+Also good with chicken  
   
 |Amount | Ingredient|  
 |----|----|  

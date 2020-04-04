@@ -7,7 +7,7 @@ category: food
 tags: {}
 ingredients: {}
 ---
-# BarBQ Beans (Jan's)  
+# BBQ Beans (Jan's)  
   
 |Amount|Ingredient|  
 |----|----|  

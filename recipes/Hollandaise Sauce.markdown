@@ -1,12 +1,3 @@
----
-title: HollandaiseSauce
-ref: HollandaiseSauce
-image: false
-time: 0
-category: food
-tags: {}
-ingredients: {}
----
 # Hollandaise Sauce  
   
 |Amount | Ingredient|  
@@ -27,5 +18,5 @@ Whisk in Chili and Salt.
 Serve immediately, or cover and keep in a warm spot until ready to use.  
 If thickens, whisk in a few drops of warm water before serving.  
    
-## Source
-Chef Tyler Florence
+## Source  
+Chef Tyler Florence  
