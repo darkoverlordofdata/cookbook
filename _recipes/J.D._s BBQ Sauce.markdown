@@ -1,14 +1,14 @@
 ---
-title: J.D._s BBQ Sauce
-ref: J.D._s BBQ Sauce
+title: J.D.s BBQ Sauce
+ref: J.D.s BBQ Sauce
 image: false
 time: 0
 category: food
 tags: {}
 ingredients: {}
 ---
-# J.D.'s BBQ Sauce  
-  
+# J.D.s BBQ Sauce 
+
 |Amount|Ingredient|  
 |----|----|  
 24 oz | Ketchup  

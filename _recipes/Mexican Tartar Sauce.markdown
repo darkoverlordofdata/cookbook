@@ -7,7 +7,7 @@ category: food
 tags: {}
 ingredients: {}
 ---
-# Mexican | Tartar Sauce  
+# Mexican Tartar Sauce  
   
 |Amount|Ingredient|  
 |----|----|  

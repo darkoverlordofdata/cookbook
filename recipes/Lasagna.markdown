@@ -11,8 +11,8 @@ Red Sauce |
 1 | onion, diced  
 1 clove | garlic, minced  
 1 lb | ground beef  
-1 can | (28 oz | ) pasta sauce  
-1 can | (8oz | ) tomato sauce  
+1 can (28oz) | pasta sauce  
+1 can (8oz) | tomato sauce  
 2 tablespoon | Oregano  
 White Sauce |  
 2 | eggs  

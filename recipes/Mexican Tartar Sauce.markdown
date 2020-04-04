@@ -1,4 +1,4 @@
-# Mexican | Tartar Sauce  
+# Mexican Tartar Sauce  
   
 |Amount|Ingredient|  
 |----|----|  

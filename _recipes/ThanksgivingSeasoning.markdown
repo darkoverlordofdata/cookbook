@@ -7,7 +7,9 @@ category: food
 tags: {}
 ingredients: {}
 ---
-# Thanksgiving Seasoning (Roaldseth's)
+# Thanksgiving Seasoning
+
+A Roaldseth Family original
 
 |Amount | Ingredient|
 |----|----|
