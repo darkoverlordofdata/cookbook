@@ -1,6 +1,6 @@
 # French Onion Beef Bowl  
   
-Amount | Ingredient  
+|Amount | Ingredient|  
 |----|----|  
 *Marinade*  |
 1 ½ lb | Top Sirloin  
@@ -21,7 +21,7 @@ Amount | Ingredient
 ½ tsp | Black Pepper, freshly ground  
 ¼ tsp | Sea Salt  
 4 Cups | Soba or Udon Noodles  
-  |
+ |  
 *Garnish*|  
 || Garlic Croutons  
 || Shredded Gruyere  

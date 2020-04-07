@@ -1,6 +1,6 @@
 # Hot & Sour Soup  
   
-|Amount|Ingredient|Half Batch|  
+|Amount|Half Batch|Ingredient|  
 |----|----|----|  
 1 quart | 2 Cups | chicken stock  
 1 quart | 2 Cups | water  
@@ -14,7 +14,7 @@
 ¼-½ tsp (I like ¼ ) | ⅛ tsp | crushed red pepper,   
 2 | 1 | leeks, split and in large pieces  
 4 | 2 | green onions, whites and greens, large pieces  
-1-2 tsp | ¼ tsp | sugar  
+1-2 tsp | ½ tsp | sugar  
 ## Cooking Instructions  
 Add everything but sugar to a big pot and bring to a boil  
 Take a taste and add a bit of sugar, usually only 1 tsp, but sometimes the greens make the soup a little bitter, and you won’t need any at all if you use seasoned rice wine vinegar, but who keeps that in the house?  

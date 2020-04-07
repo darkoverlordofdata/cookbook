@@ -2,7 +2,7 @@
   
 Oven 375  
   
-Amount | Ingredient  
+|Amount | Ingredient|  
 |----|----|  
 1 - 12 oz. can | Refrigerated Buttermilk Biscuits  
 1 lb. | Ground Beef, lean  

@@ -24,6 +24,7 @@ Form into balls, I use a \#40 disher, and place on a sheet pan lined with parchm
 Bake meatballs at 400° for 20 minutes or until done.  
   
 # Sauce  
+
 |Amount|Ingredient|  
 |----|----|  
 1 can | pasta sauce  

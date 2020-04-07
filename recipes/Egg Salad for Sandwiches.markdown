@@ -3,7 +3,6 @@
 Amount | Ingredient  
 |----|----|  
 Varies | Eggs, cooked Medium Hard  
-  | 
 Varies | Dried Onion  
 Varies | Mayonnaise  
 Varies | Frank's Hot Sauce  

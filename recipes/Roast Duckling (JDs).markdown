@@ -2,14 +2,13 @@
   
 Oven 375  
   
-Amount | Ingredient  
+|Amount | Ingredient|  
 |----|----|  
 *Duck & Stuffing*|  
 1 (4 - 5 lb) | Duckling, fresh  
 1 15 oz Can | Mandarine Oranges (reserve juice)  
 1 20 oz Can | Pineapple Chunks (reserve juice)  
 ¼ - ½ Cup | Onion, minced  
-  |
 *Stuffing & Glazing Sauce*  |
 ½ Cup | Mandarin Orange Juice  
 ½ Cup | Pineapple Juice  
@@ -19,10 +18,9 @@ Amount | Ingredient
 1 Tbsp | Honey  
 1 - 2 Tbsp | Minced Onion  
 1 tsp | Minced Garlic  
-¼ tsp ||Dry Mustard  
+¼ tsp | Dry Mustard  
 ¼ tsp | Ground Ginger  
 ¼ tsp | Black Pepper, freshly ground, or Szechuan Peppercorns, toasted and crushed  
-|
 *Serving*  |
 || Dumpling Noodles, cooked  
 || Freshly chopped Flat Leaf Parsley  
