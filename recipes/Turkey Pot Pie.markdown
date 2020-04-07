@@ -12,7 +12,7 @@ Oven 400
 1 Cup | Stock, made from Turkey bones (neck, wing tips, bones) or Chicken Stock  
 3 Tbsp | Flour  
 1 Cup | Milk  
-1 - 2 tsp | Thanksgiving Seasoning   
+1 - 2 tsp | [Thanksgiving Seasoning](../Thanksgiving-Seasoning)   
 2 | Pre-made Pie Crusts  
   
 ## Cooking Instructions  
