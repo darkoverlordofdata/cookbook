@@ -10,7 +10,7 @@ For Ranch Chicken:|
 5 tsp | Ranch Dressing Powdered  
 || For Service: Ranch Dressing - Prepared  
 For BBQ Chicken:|  
-6 tsp | BBQ Powder  
+6 tsp | [BBQ Seasoning](../BBQ-Seasoning)  
 || For Service: BBQ Sauce  
   
 ## Cooking Instructions  

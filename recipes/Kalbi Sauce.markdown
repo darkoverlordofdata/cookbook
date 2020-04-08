@@ -6,7 +6,7 @@
 3 planks | Ginger, a plank is ¾ by 2 by ⅛ inches  
 1 Cup | Soy Sauce  
 3 Tbsp | Mirin Rice Wine  
-1 Asian Pear, peeled and cored/seeded  
+1 | Asian Pear, peeled and cored/seeded  
 ½ tsp | Gochujang  
 ½ tsp | Sesame Oil  
 || Black Pepper  

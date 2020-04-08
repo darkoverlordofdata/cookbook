@@ -2,7 +2,7 @@
   
 |Amount|Ingredient|  
 |----|----|  
-Marinade  
+Marinade |  
 1 lb | boneless chicken thighs  
 2 Tbsp | green onion whites  
 1 Tbsp | soy sauce  
@@ -10,9 +10,7 @@ Marinade
 2 Tbsp | brown sugar  
 ½ Tbsp | corn starch  
 ½ tsp | fish sauce  
-  
 2 large heads |broccoli,   
-  
 ⅓ Cup | chicken stock  
 1 Tbsp | white rice flour  
   

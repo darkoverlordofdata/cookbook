@@ -11,7 +11,7 @@ For 15 Pound Turkey.  Adjust as needed.
 ¾ Cups | Onion, minced  
 3 Cups | Celery Stalks, diced  
 9 Cups | Bread Cubes, ½ cubes, dried  
-1 Batch | Thanksgiving Seasoning  
+1 Batch | [Thanksgiving Seasoning](../Thanksgiving-Seasoning)  
   
 ## Cooking Instructions  
   
