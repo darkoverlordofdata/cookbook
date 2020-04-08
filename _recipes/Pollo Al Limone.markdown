@@ -15,7 +15,7 @@ ingredients: {}
 || Flour  
 ½ tsp | Rosemary  
 2 tsp | Capers, drained  
-1 Lemon, juice of  
+1 | Lemon, juice of  
 ½ Cup | White Wine  
 1 ½ Tbsp | Butter  
   

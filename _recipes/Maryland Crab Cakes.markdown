@@ -9,7 +9,7 @@ ingredients: {}
 ---
 # Maryland Crab Cakes  
   
-Amount | Ingredient  
+|Amount | Ingredient|  
 |----|----|  
 || Oil for frying  
 2 | Eggs  

@@ -14,7 +14,7 @@ ingredients: {}
 1 Tbsp | Olive Oil  
 || Pancetta, diced  
 1 Clove | Garlic  
-¼ Sweet Onion, diced  
+¼ | Sweet Onion, diced  
 ½ Cup | Water  
 1 Cup | Frozen Peas  
 || Salt  

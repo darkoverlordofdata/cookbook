@@ -11,7 +11,7 @@ ingredients: {}
   
 |Amount|Ingredient|  
 |----|----|  
-meat for stock  
+|| meat for stock  
 6 Cups | water  
 50 grams ginger  
 3 cloves | garlic  

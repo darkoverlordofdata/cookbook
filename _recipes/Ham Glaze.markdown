@@ -9,10 +9,9 @@ ingredients: {}
 ---
 # Ham Glaze  
   
-Amount | Ingredient  
+|Amount | Ingredient|  
 |----|----|  
-*For Whole Ham*  
-  
+*For Whole Ham* |  
 ½ Cup | Honey  
 ¼ Cup | Dijon Mustard  
 4 tsp | Molasses  
@@ -32,8 +31,7 @@ Brush sauce over ham.
   
 For remaining sauce, pour into sauce pan, and bring to boil, reduce heat, and simmer until ham is ready.  Use on table as sauce for ham.  
   
-*For Ham Steak or Ham Salad*  
-  
+*For Ham Steak or Ham Salad*|  
 2 Tbsp | Honey  
 1 Tbsp | Dijon Mustard  
 1 tsp | Molasses  

@@ -17,7 +17,6 @@ Amount | Ingredient
 1 15 oz. Can | Red Kidney Beans, drained  
 ¼ Cup | White Onion, diced  
 1 Jar | Pimentos, drained  
-  |
 *Dressing*  |
 1 Cup | Italian Dressing, fresh or bottled  
 3 Tbsp | Lemon Juice  

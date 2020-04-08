@@ -9,7 +9,7 @@ ingredients: {}
 ---
 # BBQ Seasoning  
   
-for Potato Chip Chicken  
+for [Potato Chip Chicken](../Potato-Chip-Chicken)  
   
 |Amount|Ingredient|  
 |----|----|  

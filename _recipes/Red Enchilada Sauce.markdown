@@ -14,7 +14,7 @@ ingredients: {}
 ½ Cup | Diced Yellow Onion  
 4 Cloves | Garlic  
 2 oz | Dried Guajillo Peppers  
-For Frying Olive Oil  
+|| Olive Oil
 2 ½ Cups | Water  
 2 tsp | Oregano  
 1 ½ tsp | Cumin  

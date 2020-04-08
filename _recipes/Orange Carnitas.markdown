@@ -16,7 +16,7 @@ ingredients: {}
 2 Cups | Orange Juice (fresh squeezed and/or bottled) -- divided  
 1 | Onion, chopped  
 1.5 tsp | New Mexican Chili  
-1 Pascilla Pepper  
+1 | Pascilla Pepper  
 1 15 oz Can | Black Beans, rinsed and drained  
 8 | 10 inch Flour Tortillas (warmed)  
 ⅓ Cup | Green Onions, thinly sliced (white and top)  

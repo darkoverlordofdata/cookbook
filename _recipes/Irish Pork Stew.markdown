@@ -12,21 +12,24 @@ ingredients: {}
 |Amount | Ingredient|  
 |----|----|  
 1 - 2 ½ lb | Boneless Pork Shoulder, cut into 2 inch cubes  
-| Salt & Black Pepper, to taste  
+|| Salt & Black Pepper, to taste  
 1 Tbsp | Vegetable Oil  
 1 Tbsp | Butter  
 1 Pinch | Salt  
 1 Large | Onion, chopped  
-1 Clove | Garlic, minced  
+1 Clove | Garlic, minced
+|  
 1 Tbsp | All-purpose Flour  
 1 | Bay Leaf  
 ¾ tsp | Caraway Seed  
-1 - 12 Fl. oz. Bottle | Dark Beer, e.g., Guinness  
+1 - 12 Fl. oz. Bottle | Dark Beer, e.g., Guinness 
+| 
 2 Cups | Chicken Stock or Broth  
 3 | Carrots, cut into 1-inch pieces  
 2 Stalks | Celery, cut into 1-inch pieces  
 ¼ Cup | Fresh, Flat Leaf Parsley, chopped  
 3 Tbsp | Balsamic Vinegar  
+|
 3 Cups | Mashed Potatoes from boiled Potatoes (see below)  
 1 tsp | Fresh, Flat Leaf Parsley, chopped  
   

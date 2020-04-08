@@ -14,7 +14,7 @@ ingredients: {}
 1 lb | Chicken  
 1 | Onion  
 1 can | Pineapple Chunks  
-1 Red Bell Pepper  
+1 | Red Bell Pepper  
 2 cloves | Garlic  
 ¼ Cup | Sweet Chili Sauce  
 1Tbsp | Fish Sauce  

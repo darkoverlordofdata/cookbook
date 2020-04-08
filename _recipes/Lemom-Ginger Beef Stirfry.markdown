@@ -12,7 +12,7 @@ ingredients: {}
 |Amount|Ingredient|  
 |----|----|  
 1 lb | Flank Steak  
-*Marinade*  
+*Marinade* |  
 1 | Juice of Small Lemon  
 1 | Ginger Toe, minced  
 2 Tbsp | Soy Sauce  

@@ -9,7 +9,7 @@ ingredients: {}
 ---
 # Carrot and Raisin Salad  
   
-Amount | Ingredient  
+|Amount | Ingredient|  
 |----|----|  
 2 ½ Cups | Carrots, shredded, about 3 large  
 ½ Cup | Raisins, black or golden or both  
