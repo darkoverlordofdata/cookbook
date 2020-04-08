@@ -17,7 +17,7 @@ def fix_title(title):
 def clean(text):
     """fix measures, fractions, and some other things"""
     #clean structure
-    text = re.sub(r"(?<!\|)Amount\|Ingredient(?!\|)", "|Amount|Ingredient|", text)
+    text = re.sub(r"(?<!\|)Amount ?\| ?Ingredient(?!\|)", "|Amount|Ingredient|", text)
     text = re.sub(r"----\|----\n\n", r"----|----\n", text)
     text = re.sub(r"(?<!\|)----\|----(?!\|)", "|----|----|", text)
     text = re.sub("## Directions", "## Cooking Instructions", text)
