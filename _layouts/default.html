@@ -4,26 +4,78 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="en">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- Mobile Specific Metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="//fonts.googleapis.com/css?family=Lato:400,300,600" rel="stylesheet" type="text/css">
 
-    <style>
-html *
-{
-   /* font-size: 1em !important;
-   color: #000 !important; */
-   font-family: Roboto !important;
-}      
+    <!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.2/normalize.min.css" integrity="sha256-VgxFIWOoTBmbZS41YqgKCUlG9s1jIP2YoUuQJE7ulGk=" crossorigin="anonymous" />
+    <link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" integrity="sha256-2YQRJMXD7pIAPHiXr0s+vlRWA7GYJEK0ARns7k2sbHY=" crossorigin="anonymous" />
+
+    <style media="screen">
+        /*Some small tweaks to skeleton to make the screen display
+        look a little more like the print out*/
+
+        body {
+            padding-left: 12px; font-family: Lato, Arial;
+        }
+        h2, th { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem;
+            font-weight: inherit; text-decoration: underline;}
+
+        /*the table header should be the same size*/
+
+        /*Larger than phablet*/ 
+        @media (min-width: 550px) {
+            h2, th { font-size: 3.6rem; }
+        }
     </style>
 
-  <body class="{% if page.font %}{{ page.font }}{% else %}{{ layout.font }}{% endif %}">
+    <style media="print">
+        /*Print media style sheet, only styles things that show up in recipes*/
 
-    <div class="table">
-      {{ content }}
-    </div>
+        body {font-family: Lato, Arial; font-weight: 400; 
+            line-height: 1;
+            padding-left: 20pt;}
 
-  </body>
+        h1 {font-size: 14pt; font-weight: 600;}
+        h2, th {font-size: 13pt; font-weight: 400; text-decoration: underline;}
+        th { text-align: left;}
+
+        h2 {padding-top: 10pt; padding-bottom: 10pt; margin: 0;}
+
+        th { padding-top: 0; padding-bottom: 12pt; padding-right: 6pt;}
+        td { padding-top: 0; padding-bottom: 6pt; padding-right: 6pt;}
+        p  { padding-top: 0; padding-bottom: 6pt; margin: 0;}
+
+        ol, ul { padding-top: 6pt; padding-bottom: 6pt; margin: 0; }
+        li { padding-bottom: 6pt; }        
+    </style>
+
+    <!-- 
+    <link rel="stylesheet" href="assets/css/normalize.css">
+    <link rel="stylesheet" media="screen" href="assets/css/skeleton.css">
+    <link rel="stylesheet" media="screen" href="assets/css/mods.css">
+    <link rel="stylesheet" media="print" href="assets/css/print.css">
+  
+    <link rel="stylesheet" href="../assets/css/normalize.css">
+    <link rel="stylesheet" media="screen" href="../assets/css/skeleton.css">
+    <link rel="stylesheet" media="screen" href="../assets/css/mods.css">
+    <link rel="stylesheet" media="print" href="../assets/css/print.css">
+    -->
+    
+
+    <body class="{% if page.font %}{{ page.font }}{% else %}{{ layout.font }}{% endif %}">
+
+        <div class="table">
+            {{ content }}
+        </div>
+
+    </body>
 </html>
