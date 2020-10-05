@@ -12,6 +12,7 @@ repls = list(zip(bad, good))
 def fix_title(title):
     new_title = re.sub(r"\.|'|,", "", title)
     new_title = re.sub("&", "and", new_title)
+    new_title = re.sub(" ", "-", new_title)
     return new_title.strip()
 
 def clean(text):
@@ -31,15 +32,22 @@ def clean(text):
         return "](../"+re.sub(" ", "-", fix_title(match.group(1)))+")"
     text = re.sub(r"\]\((.*?)\)", fix_link, text)
     
-    #add spaces to the end of lines
     lines = text.split("\n")
     new_text = []
+    #add spaces to the end of lines
     for line in lines:
         match = re.search(r"  $", line)
         if match:
             new_text.append(line)
         else:
             new_text.append(line+"  ")
+    #remove spaces from the end of lines
+    # for line in lines:
+    #     match = re.search(r" +$", line)
+    #     if match:
+    #         new_text.append(line[:-len(match.group(0))])
+    #     else:
+    #         new_text.append(line)
 
     text = "\n".join(new_text)
 
