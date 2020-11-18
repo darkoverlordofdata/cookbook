@@ -1,17 +1,22 @@
 # Cranberry Sauce
 
-|Amount | Ingredient|
+|Amount|Ingredient|
 |----|----|
-1 - 12 oz. Bag | Fresh Cranberries
-1 Cup | Sugar
+1 Package | Cranberries - Ocean Spray
 1 Cup | Water
+1 Cup | White Sugar
 
 ## Cooking Instructions
 
-Rinse cranberries, and toss bad ones.
-In a medium sauce pan, over medium-high heat, add Sugar and Water.
-Stir until Sugar is dissolved, and water is clear.
-Bring to a boil.
-Add cleaned Cranberries to boiling syrup.
-When Cranberries begin to pop, mash berries with the back of a spoon to ensure all berries pop and release juice.
-When all Cranberries are popped, remove from heat and pour into serving bowl.
+Empty cranberries into a colander and rinse with cold water.
+Inspect, and toss any that are mushy or too white (over 50%).
+
+In a medium sauce pan, add Water and Sugar.
+Over medium heat, stir until Sugar disolves.
+Add Cranberries.
+Stir until cranberries begin to pop.
+Continue stirring until most cranberries have popped.
+Use a potato masher to smash the berries to ensure all have popped.
+Remove from heat.
+Serve.
+
