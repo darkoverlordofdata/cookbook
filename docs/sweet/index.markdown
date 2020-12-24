@@ -7,6 +7,7 @@ Entries
  - [Banana Bread](Banana-Bread.markdown)
  - [Banana Nut Bread](Banana-Nut-Bread.markdown)
  - [Candied Ginger](Candied-Ginger.markdown)
+ - [Chocolate Chip Cookies](Chocolate-Chip-Cookies.markdown)
  - [Chocolate Crinkles or Black and White Cookies](Chocolate-Crinkles-or-Black-and-White-Cookies.markdown)
  - [Chocolate Fudge (Alton Brown's)](Chocolate-Fudge-_Alton-Browns_.markdown)
  - [Chocolate Pudding](Chocolate-Pudding.markdown)
